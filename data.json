@@ -1,184 +1,202 @@
 {
-  "generated_at": "2025-05-20T00:00:00",
+  "generated_at": "2026-05-20T10:30:15.722618",
   "trends": [
     {
       "id": "t1",
-      "title": "一句台词玩梗挑战",
+      "title": "这就是讨好型coser格吗…",
       "game": "王者荣耀",
-      "powerScore": 87,
-      "growth": "+320%",
-      "noteCount": 168,
-      "sourceType": "蓝海选题",
-      "firstDetected": "3h前",
-      "trendType": "创作型",
-      "status": "待处理",
-      "internalNotes": [
-        {
-          "title": "台词cos合集",
-          "url": "https://www.xiaohongshu.com/explore/6818911a000000002001ea57",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [
-        {
-          "title": "抖音台词串烧",
-          "url": "https://www.douyin.com/video/7382910473",
-          "platform": "抖音"
-        }
-      ],
-      "aiSuggestion": "适合创作者做角色台词cos合集",
-      "appearedAt": "3h前"
-    },
-    {
-      "id": "t2",
-      "title": "新赛季上分技巧",
-      "game": "王者荣耀",
-      "powerScore": 82,
-      "growth": "+280%",
-      "noteCount": 145,
+      "powerScore": 95,
+      "growth": "+185%",
+      "noteCount": 10242,
       "sourceType": "站内苗头",
       "firstDetected": "2h前",
       "trendType": "创作型",
       "status": "待处理",
       "internalNotes": [
         {
-          "title": "新赛季攻略",
+          "title": "这就是讨好型coser格吗…",
+          "url": "https://www.xiaohongshu.com/explore/6818911a000000002001ea57",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "appearedAt": "2h前"
+    },
+    {
+      "id": "t2",
+      "title": "外出住宿必备！ 1秒快速检测针孔摄像头",
+      "game": "王者荣耀",
+      "powerScore": 95,
+      "growth": "+217%",
+      "noteCount": 8268,
+      "sourceType": "站内苗头",
+      "firstDetected": "3h前",
+      "trendType": "讨论型",
+      "status": "待处理",
+      "internalNotes": [
+        {
+          "title": "外出住宿必备！ 1秒快速检测针",
+          "url": "https://www.xiaohongshu.com/explore/64365152000000000800fef1",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "appearedAt": "2h前"
+    },
+    {
+      "id": "t3",
+      "title": "姐姐，那年东湖的雨天，我只想与你一起排位",
+      "game": "王者荣耀",
+      "powerScore": 95,
+      "growth": "+170%",
+      "noteCount": 7818,
+      "sourceType": "站内苗头",
+      "firstDetected": "5h前",
+      "trendType": "讨论型",
+      "status": "待处理",
+      "internalNotes": [
+        {
+          "title": "姐姐，那年东湖的雨天，我只想与",
           "url": "https://www.xiaohongshu.com/explore/686f77ba000000002400a0a2",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
-      "aiSuggestion": "攻略型内容，建议做图文教程",
-      "appearedAt": "2h前"
+      "aiSuggestion": "",
+      "appearedAt": "3h前"
     },
     {
-      "id": "t3",
-      "title": "排位连败心态讨论",
+      "id": "t4",
+      "title": "住酒店被偷拍？老阿姨教你自查合理要赔偿！",
       "game": "王者荣耀",
-      "powerScore": 76,
-      "growth": "+245%",
-      "noteCount": 112,
+      "powerScore": 95,
+      "growth": "+155%",
+      "noteCount": 7333,
       "sourceType": "站内苗头",
       "firstDetected": "4h前",
       "trendType": "讨论型",
       "status": "待处理",
-      "internalNotes": [],
+      "internalNotes": [
+        {
+          "title": "住酒店被偷拍？老阿姨教你自查合",
+          "url": "https://www.xiaohongshu.com/explore/69552033000000001e0257a9",
+          "platform": "小红书"
+        }
+      ],
       "externalNotes": [],
       "aiSuggestion": "",
       "appearedAt": "4h前"
     },
     {
-      "id": "t4",
-      "title": "角色cos日常穿搭",
+      "id": "t5",
+      "title": "既然你两这么有缘的话，不如…",
       "game": "和平精英",
-      "powerScore": 79,
-      "growth": "+210%",
-      "noteCount": 98,
-      "sourceType": "蓝海选题",
-      "firstDetected": "5h前",
-      "trendType": "创作型",
+      "powerScore": 95,
+      "growth": "+267%",
+      "noteCount": 5662,
+      "sourceType": "站内苗头",
+      "firstDetected": "1h前",
+      "trendType": "讨论型",
       "status": "待处理",
       "internalNotes": [
         {
-          "title": "和平精英cos",
+          "title": "既然你两这么有缘的话，不如…",
           "url": "https://www.xiaohongshu.com/explore/67dd33a4000000001d03868e",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "5h前"
-    },
-    {
-      "id": "t5",
-      "title": "新版本武器改动",
-      "game": "和平精英",
-      "powerScore": 73,
-      "growth": "+195%",
-      "noteCount": 87,
-      "sourceType": "站内苗头",
-      "firstDetected": "3h前",
-      "trendType": "讨论型",
-      "status": "待处理",
-      "internalNotes": [],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "appearedAt": "3h前"
+      "appearedAt": "1h前"
     },
     {
       "id": "t6",
-      "title": "BGM变装挑战",
-      "game": "无畏契约",
-      "powerScore": 85,
-      "growth": "+300%",
-      "noteCount": 156,
-      "sourceType": "蓝海选题",
-      "firstDetected": "2h前",
-      "trendType": "创作型",
+      "title": "某些场景第一眼就知道一定能出片",
+      "game": "和平精英",
+      "powerScore": 95,
+      "growth": "+311%",
+      "noteCount": 5551,
+      "sourceType": "站内苗头",
+      "firstDetected": "6h前",
+      "trendType": "讨论型",
       "status": "待处理",
       "internalNotes": [
         {
-          "title": "瓦罗兰特变装",
-          "url": "https://www.xiaohongshu.com/explore/69d7a559000000002102c580",
+          "title": "某些场景第一眼就知道一定能出片",
+          "url": "https://www.xiaohongshu.com/explore/6777c890000000000902f6de",
           "platform": "小红书"
         }
       ],
-      "externalNotes": [
-        {
-          "title": "B站变装参考",
-          "url": "https://www.bilibili.com/video/BV1GJ411x7",
-          "platform": "B站"
-        }
-      ],
-      "aiSuggestion": "BGM+变装组合，适合短视频二创",
+      "externalNotes": [],
+      "aiSuggestion": "",
       "appearedAt": "2h前"
     }
   ],
   "hots": [
     {
       "id": "h1",
-      "title": "角色cos穿搭挑战赛",
+      "title": "这就是讨好型coser格吗…",
       "game": "王者荣耀",
-      "heatScore": 92,
-      "cumulativeNotes": 4200,
-      "last24hGrowth": 680,
-      "lifecycle": "上升期",
-      "sourceType": "全网热点",
+      "heatScore": 95,
+      "cumulativeNotes": 20485,
+      "last24hGrowth": 50963,
+      "lifecycle": "高峰期",
+      "sourceType": "社区热点",
       "typeTag": "创作型",
-      "firstDetected": "5天前",
+      "firstDetected": "7天前",
       "internalNotes": [
         {
-          "title": "cos合集",
-          "url": "https://www.xiaohongshu.com/explore/69774ace00000000280226d3",
+          "title": "这就是讨好型coser格吗…",
+          "url": "https://www.xiaohongshu.com/explore/6818911a000000002001ea57",
           "platform": "小红书"
         }
       ],
-      "externalNotes": [
-        {
-          "title": "抖音cos",
-          "url": "https://www.douyin.com/video/7382910473",
-          "platform": "抖音"
-        }
-      ],
-      "aiSuggestion": "持续增长，建议加大通告投入",
-      "difficulty": "中",
-      "acceptType": "通告",
-      "appearedAt": "6h前"
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "difficulty": "高",
+      "acceptType": "短视频",
+      "appearedAt": "21h前"
     },
     {
       "id": "h2",
-      "title": "赛季末冲分攻略",
+      "title": "外出住宿必备！ 1秒快速检测针孔摄像头",
       "game": "王者荣耀",
-      "heatScore": 89,
-      "cumulativeNotes": 3800,
-      "last24hGrowth": 520,
-      "lifecycle": "上升期",
+      "heatScore": 95,
+      "cumulativeNotes": 16536,
+      "last24hGrowth": 41091,
+      "lifecycle": "高峰期",
       "sourceType": "社区热点",
-      "typeTag": "创作型",
+      "typeTag": "讨论型",
+      "firstDetected": "3天前",
+      "internalNotes": [
+        {
+          "title": "外出住宿必备！ 1秒快速检测针",
+          "url": "https://www.xiaohongshu.com/explore/64365152000000000800fef1",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "difficulty": "低",
+      "acceptType": "图文",
+      "appearedAt": "14h前"
+    },
+    {
+      "id": "h3",
+      "title": "姐姐，那年东湖的雨天，我只想与你一起排位",
+      "game": "王者荣耀",
+      "heatScore": 95,
+      "cumulativeNotes": 15637,
+      "last24hGrowth": 38843,
+      "lifecycle": "高峰期",
+      "sourceType": "社区热点",
+      "typeTag": "讨论型",
       "firstDetected": "4天前",
       "internalNotes": [
         {
-          "title": "冲分攻略",
+          "title": "姐姐，那年东湖的雨天，我只想与",
           "url": "https://www.xiaohongshu.com/explore/686f77ba000000002400a0a2",
           "platform": "小红书"
         }
@@ -187,139 +205,127 @@
       "aiSuggestion": "",
       "difficulty": "低",
       "acceptType": "图文",
-      "appearedAt": "6h前"
+      "appearedAt": "20h前"
     },
     {
-      "id": "h3",
-      "title": "地图新改动分析",
+      "id": "h4",
+      "title": "既然你两这么有缘的话，不如…",
       "game": "和平精英",
-      "heatScore": 85,
-      "cumulativeNotes": 3200,
-      "last24hGrowth": 410,
-      "lifecycle": "上升期",
+      "heatScore": 95,
+      "cumulativeNotes": 11324,
+      "last24hGrowth": 28060,
+      "lifecycle": "高峰期",
       "sourceType": "社区热点",
       "typeTag": "讨论型",
-      "firstDetected": "6天前",
+      "firstDetected": "5天前",
       "internalNotes": [
         {
-          "title": "地图分析",
+          "title": "既然你两这么有缘的话，不如…",
           "url": "https://www.xiaohongshu.com/explore/67dd33a4000000001d03868e",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "difficulty": "中",
-      "acceptType": "图文",
-      "appearedAt": "8h前"
+      "difficulty": "高",
+      "acceptType": "直播",
+      "appearedAt": "10h前"
     },
     {
-      "id": "h4",
-      "title": "无畏契约赛事热评",
-      "game": "无畏契约",
-      "heatScore": 88,
-      "cumulativeNotes": 3500,
-      "last24hGrowth": 580,
+      "id": "h5",
+      "title": "某些场景第一眼就知道一定能出片",
+      "game": "和平精英",
+      "heatScore": 95,
+      "cumulativeNotes": 11103,
+      "last24hGrowth": 27509,
       "lifecycle": "高峰期",
-      "sourceType": "全网热点",
+      "sourceType": "社区热点",
+      "typeTag": "讨论型",
+      "firstDetected": "3天前",
+      "internalNotes": [
+        {
+          "title": "某些场景第一眼就知道一定能出片",
+          "url": "https://www.xiaohongshu.com/explore/6777c890000000000902f6de",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "difficulty": "中",
+      "acceptType": "直播",
+      "appearedAt": "18h前"
+    },
+    {
+      "id": "h6",
+      "title": "🦔啦啦啦～寂寞的人听伤心的歌",
+      "game": "三角洲行动",
+      "heatScore": 95,
+      "cumulativeNotes": 5892,
+      "last24hGrowth": 14480,
+      "lifecycle": "高峰期",
+      "sourceType": "社区热点",
+      "typeTag": "讨论型",
+      "firstDetected": "4天前",
+      "internalNotes": [
+        {
+          "title": "🦔啦啦啦～寂寞的人听伤心的歌",
+          "url": "https://www.xiaohongshu.com/explore/68709877000000001c037736",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "difficulty": "高",
+      "acceptType": "图文",
+      "appearedAt": "10h前"
+    },
+    {
+      "id": "h7",
+      "title": "赵露思居然问我…这个问题",
+      "game": "英雄联盟",
+      "heatScore": 95,
+      "cumulativeNotes": 16641,
+      "last24hGrowth": 41354,
+      "lifecycle": "高峰期",
+      "sourceType": "社区热点",
+      "typeTag": "讨论型",
+      "firstDetected": "4天前",
+      "internalNotes": [
+        {
+          "title": "赵露思居然问我…这个问题",
+          "url": "https://www.xiaohongshu.com/explore/669cfbed000000002501710e",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "difficulty": "高",
+      "acceptType": "图文",
+      "appearedAt": "18h前"
+    },
+    {
+      "id": "h8",
+      "title": "这是属于我们的一秒钟",
+      "game": "英雄联盟",
+      "heatScore": 95,
+      "cumulativeNotes": 12238,
+      "last24hGrowth": 30346,
+      "lifecycle": "高峰期",
+      "sourceType": "社区热点",
       "typeTag": "讨论型",
       "firstDetected": "7天前",
       "internalNotes": [
         {
-          "title": "赛事评论",
-          "url": "https://www.xiaohongshu.com/explore/69d7a559000000002102c580",
+          "title": "这是属于我们的一秒钟",
+          "url": "https://www.xiaohongshu.com/explore/69131dc400000000040227e7",
           "platform": "小红书"
         }
       ],
-      "externalNotes": [
-        {
-          "title": "虎扑讨论",
-          "url": "https://www.douyin.com/video/7382910473",
-          "platform": "虎扑"
-        }
-      ],
+      "externalNotes": [],
       "aiSuggestion": "",
       "difficulty": "高",
-      "acceptType": "直播",
-      "appearedAt": "4h前"
-    },
-    {
-      "id": "h5",
-      "title": "金铲铲卡牌搭配",
-      "game": "金铲铲之战",
-      "heatScore": 82,
-      "cumulativeNotes": 2800,
-      "last24hGrowth": 320,
-      "lifecycle": "上升期",
-      "sourceType": "社区热点",
-      "typeTag": "创作型",
-      "firstDetected": "3天前",
-      "internalNotes": [
-        {
-          "title": "卡牌搭配",
-          "url": "https://www.xiaohongshu.com/explore/6992de44000000000a0281cc",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "difficulty": "中",
-      "acceptType": "图文",
-      "appearedAt": "6h前"
-    },
-    {
-      "id": "h6",
-      "title": "三角洲特种兵操作",
-      "game": "三角洲行动",
-      "heatScore": 78,
-      "cumulativeNotes": 2200,
-      "last24hGrowth": 260,
-      "lifecycle": "上升期",
-      "sourceType": "蓝海选题",
-      "typeTag": "创作型",
-      "firstDetected": "2天前",
-      "internalNotes": [],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "difficulty": "中",
       "acceptType": "短视频",
-      "appearedAt": "8h前"
-    },
-    {
-      "id": "h7",
-      "title": "英雄联盟新英雄讨论",
-      "game": "英雄联盟",
-      "heatScore": 76,
-      "cumulativeNotes": 1800,
-      "last24hGrowth": 350,
-      "lifecycle": "高峰期",
-      "sourceType": "全网热点",
-      "typeTag": "讨论型",
-      "firstDetected": "4天前",
-      "internalNotes": [],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "difficulty": "低",
-      "acceptType": "图文",
-      "appearedAt": "12h前"
-    },
-    {
-      "id": "h8",
-      "title": "暗区突围枪械教学",
-      "game": "暗区突围",
-      "heatScore": 74,
-      "cumulativeNotes": 1600,
-      "last24hGrowth": 180,
-      "lifecycle": "上升期",
-      "sourceType": "社区热点",
-      "typeTag": "创作型",
-      "firstDetected": "3天前",
-      "internalNotes": [],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "difficulty": "中",
-      "acceptType": "短视频",
-      "appearedAt": "10h前"
+      "appearedAt": "5h前"
     }
   ]
 }
