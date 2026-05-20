@@ -1,74 +1,32 @@
 {
-  "generated_at": "2026-05-20T13:38:44.749450",
+  "generated_at": "2026-05-20T14:02:26.220745",
   "trends": [
     {
       "id": "t1",
       "sourceType": "站内苗头",
-      "title": "王者荣耀 超玩会轩然相关讨论",
-      "game": "王者荣耀",
-      "powerScore": 85,
-      "growth": "+296%",
-      "noteCount": 95,
-      "trendType": "讨论型",
-      "firstDetected": "5h前",
-      "appearedAt": "6h前",
-      "internalNotes": [
-        {
-          "title": "📣咱们JDG九周岁啦",
-          "url": "https://www.xiaohongshu.com/explore/6a0d38810000000035022143",
-          "platform": "小红书(4635赞)"
-        },
-        {
-          "title": "命运",
-          "url": "https://www.xiaohongshu.com/explore/6a0d3ddb0000000035023c8c",
-          "platform": "小红书(213赞)"
-        },
-        {
-          "title": "最佳选手给到成都AG超玩会轩然",
-          "url": "https://www.xiaohongshu.com/explore/6a0d38bc000000000603168b",
-          "platform": "小红书(165赞)"
-        }
-      ],
-      "externalNotes": [
-        {
-          "title": "王者荣耀讨论",
-          "url": "#",
-          "platform": "小红书"
-        }
-      ],
-      "suggestionDirections": [
-        "图文",
-        "短视频"
-      ],
-      "aiSuggestion": "",
-      "status": "待处理"
-    },
-    {
-      "id": "t2",
-      "sourceType": "站内苗头",
       "title": "三角洲行动 阿萨拉的情书相关讨论",
       "game": "三角洲行动",
       "powerScore": 85,
-      "growth": "+253%",
-      "noteCount": 65,
+      "growth": "+205%",
+      "noteCount": 95,
       "trendType": "讨论型",
-      "firstDetected": "1h前",
-      "appearedAt": "1h前",
+      "firstDetected": "2h前",
+      "appearedAt": "5h前",
       "internalNotes": [
         {
           "title": "我来铜泥丸【三角洲动画】",
           "url": "https://www.xiaohongshu.com/explore/6a0d34440000000037034c35",
-          "platform": "小红书(1399赞)"
+          "platform": "小红书(1780赞)"
         },
         {
           "title": "就很…唉 你们懂吧？",
           "url": "https://www.xiaohongshu.com/explore/6a0d3c0e0000000036032144",
-          "platform": "小红书(303赞)"
+          "platform": "小红书(362赞)"
         },
         {
           "title": "到底是哪个天才发明的百分百必出",
           "url": "https://www.xiaohongshu.com/explore/6a0d34f2000000003501c974",
-          "platform": "小红书(230赞)"
+          "platform": "小红书(269赞)"
         }
       ],
       "externalNotes": [
@@ -86,26 +44,58 @@
       "status": "待处理"
     },
     {
+      "id": "t2",
+      "sourceType": "站内苗头",
+      "title": "金铲铲之战 派克格温相关讨论",
+      "game": "金铲铲之战",
+      "powerScore": 77,
+      "growth": "+209%",
+      "noteCount": 14,
+      "trendType": "讨论型",
+      "firstDetected": "3h前",
+      "appearedAt": "6h前",
+      "internalNotes": [
+        {
+          "title": "派克格温！新版强势稳定上分阵容",
+          "url": "https://www.xiaohongshu.com/explore/6a0c2b6200000000060337c3",
+          "platform": "小红书(1698赞)"
+        }
+      ],
+      "externalNotes": [
+        {
+          "title": "金铲铲之战讨论",
+          "url": "#",
+          "platform": "小红书"
+        }
+      ],
+      "suggestionDirections": [
+        "图文",
+        "短视频"
+      ],
+      "aiSuggestion": "",
+      "status": "待处理"
+    },
+    {
       "id": "t3",
       "sourceType": "站内苗头",
       "title": "PUBG 新式堵桥相关讨论",
       "game": "PUBG",
       "powerScore": 77,
-      "growth": "+83%",
-      "noteCount": 55,
+      "growth": "+200%",
+      "noteCount": 90,
       "trendType": "讨论型",
-      "firstDetected": "4h前",
+      "firstDetected": "3h前",
       "appearedAt": "2h前",
       "internalNotes": [
         {
           "title": "新式堵桥，很难别学。",
           "url": "https://www.xiaohongshu.com/explore/6a09c869000000000803c85b",
-          "platform": "小红书(686赞)"
+          "platform": "小红书(690赞)"
         },
         {
           "title": "张元英的pubg账号",
           "url": "https://www.xiaohongshu.com/explore/6a09b0cb0000000035032136",
-          "platform": "小红书(330赞)"
+          "platform": "小红书(331赞)"
         },
         {
           "title": "不跟叙利亚的谈",
@@ -130,61 +120,29 @@
     {
       "id": "t4",
       "sourceType": "站内苗头",
-      "title": "金铲铲之战 派克格温相关讨论",
-      "game": "金铲铲之战",
-      "powerScore": 76,
-      "growth": "+120%",
-      "noteCount": 13,
-      "trendType": "讨论型",
-      "firstDetected": "3h前",
-      "appearedAt": "4h前",
-      "internalNotes": [
-        {
-          "title": "派克格温！新版强势稳定上分阵容",
-          "url": "https://www.xiaohongshu.com/explore/6a0c2b6200000000060337c3",
-          "platform": "小红书(1676赞)"
-        }
-      ],
-      "externalNotes": [
-        {
-          "title": "金铲铲之战讨论",
-          "url": "#",
-          "platform": "小红书"
-        }
-      ],
-      "suggestionDirections": [
-        "图文",
-        "短视频"
-      ],
-      "aiSuggestion": "",
-      "status": "待处理"
-    },
-    {
-      "id": "t5",
-      "sourceType": "站内苗头",
       "title": "暗区突围 这下电视台真相关讨论",
       "game": "暗区突围",
       "powerScore": 75,
-      "growth": "+289%",
-      "noteCount": 90,
+      "growth": "+106%",
+      "noteCount": 95,
       "trendType": "讨论型",
       "firstDetected": "3h前",
-      "appearedAt": "2h前",
+      "appearedAt": "1h前",
       "internalNotes": [
         {
           "title": "有史以来遇到过最气人的鞭尸仔？",
           "url": "https://www.xiaohongshu.com/explore/6a0c4f5a0000000006033b96",
-          "platform": "小红书(656赞)"
+          "platform": "小红书(668赞)"
         },
         {
           "title": "神枪AN94又出新配件了！",
           "url": "https://www.xiaohongshu.com/explore/6a0c5a9c00000000350319bc",
-          "platform": "小红书(389赞)"
+          "platform": "小红书(391赞)"
         },
         {
           "title": "这下电视台真有鼠鼠了",
           "url": "https://www.xiaohongshu.com/explore/6a0c3ec00000000007020f17",
-          "platform": "小红书(235赞)"
+          "platform": "小红书(236赞)"
         }
       ],
       "externalNotes": [
@@ -202,16 +160,16 @@
       "status": "待处理"
     },
     {
-      "id": "t6",
+      "id": "t5",
       "sourceType": "站内苗头",
       "title": "CSGO 醒来身价堪比相关讨论",
       "game": "CSGO",
-      "powerScore": 71,
-      "growth": "+251%",
-      "noteCount": 75,
+      "powerScore": 72,
+      "growth": "+135%",
+      "noteCount": 50,
       "trendType": "讨论型",
-      "firstDetected": "4h前",
-      "appearedAt": "6h前",
+      "firstDetected": "3h前",
+      "appearedAt": "1h前",
       "internalNotes": [
         {
           "title": "什么叫第二天醒来身价堪比sfz",
@@ -221,12 +179,12 @@
         {
           "title": "《身法》",
           "url": "https://www.xiaohongshu.com/explore/6a0bff18000000003701ea6f",
-          "platform": "小红书(297赞)"
+          "platform": "小红书(311赞)"
         },
         {
           "title": "《预判》",
           "url": "https://www.xiaohongshu.com/explore/6a0bfe510000000038021ceb",
-          "platform": "小红书(165赞)"
+          "platform": "小红书(166赞)"
         }
       ],
       "externalNotes": [
@@ -244,16 +202,16 @@
       "status": "待处理"
     },
     {
-      "id": "t7",
+      "id": "t6",
       "sourceType": "站内苗头",
       "title": "DOTA2 锁定东方体育相关讨论",
       "game": "DOTA2",
       "powerScore": 67,
-      "growth": "+217%",
-      "noteCount": 70,
+      "growth": "+278%",
+      "noteCount": 50,
       "trendType": "讨论型",
-      "firstDetected": "6h前",
-      "appearedAt": "6h前",
+      "firstDetected": "2h前",
+      "appearedAt": "3h前",
       "internalNotes": [
         {
           "title": "巴西议员约战Dota2，输了直",
@@ -263,7 +221,7 @@
         {
           "title": "洲际导弹：白牛！",
           "url": "https://www.xiaohongshu.com/explore/6a05c987000000003603097d",
-          "platform": "小红书(295赞)"
+          "platform": "小红书(296赞)"
         },
         {
           "title": "拍成这样能在北京找互勉么",
@@ -286,31 +244,31 @@
       "status": "待处理"
     },
     {
-      "id": "t8",
+      "id": "t7",
       "sourceType": "站内苗头",
       "title": "火影忍者 鼬佐爱之歌相关讨论",
       "game": "火影忍者",
-      "powerScore": 62,
-      "growth": "+210%",
-      "noteCount": 40,
+      "powerScore": 65,
+      "growth": "+240%",
+      "noteCount": 80,
       "trendType": "讨论型",
-      "firstDetected": "4h前",
-      "appearedAt": "1h前",
+      "firstDetected": "6h前",
+      "appearedAt": "4h前",
       "internalNotes": [
         {
           "title": "今天什么日子啊喂",
           "url": "https://www.xiaohongshu.com/explore/6a0d32eb000000000602121f",
-          "platform": "小红书(439赞)"
+          "platform": "小红书(492赞)"
         },
         {
           "title": "不忍心怪你对我太独特",
           "url": "https://www.xiaohongshu.com/explore/6a0d33f7000000003701e3b3",
-          "platform": "小红书(251赞)"
+          "platform": "小红书(285赞)"
         },
         {
           "title": "和我最最最喜欢的女孩",
           "url": "https://www.xiaohongshu.com/explore/6a0d28dc0000000035020b61",
-          "platform": "小红书(199赞)"
+          "platform": "小红书(210赞)"
         }
       ],
       "externalNotes": [
@@ -328,31 +286,31 @@
       "status": "待处理"
     },
     {
-      "id": "t9",
+      "id": "t8",
       "sourceType": "站内苗头",
       "title": "金铲铲之战 爆杀全场爽吃相关讨论",
       "game": "金铲铲之战",
-      "powerScore": 58,
-      "growth": "+81%",
-      "noteCount": 40,
+      "powerScore": 59,
+      "growth": "+251%",
+      "noteCount": 60,
       "trendType": "讨论型",
-      "firstDetected": "4h前",
-      "appearedAt": "2h前",
+      "firstDetected": "1h前",
+      "appearedAt": "4h前",
       "internalNotes": [
         {
           "title": "坦度成双莎弥拉！沙漠玫瑰狂飙射",
           "url": "https://www.xiaohongshu.com/explore/6a0c62be00000000350309cd",
-          "platform": "小红书(241赞)"
+          "platform": "小红书(244赞)"
         },
         {
           "title": "朋友你要知道，你追不到三我是真",
           "url": "https://www.xiaohongshu.com/explore/6a0c4de3000000003502cd78",
-          "platform": "小红书(212赞)"
+          "platform": "小红书(231赞)"
         },
         {
           "title": "《开局两转3-2六幻灵》不敢想",
           "url": "https://www.xiaohongshu.com/explore/6a0c70790000000036032601",
-          "platform": "小红书(207赞)"
+          "platform": "小红书(209赞)"
         }
       ],
       "externalNotes": [
@@ -370,36 +328,68 @@
       "status": "待处理"
     },
     {
-      "id": "t10",
+      "id": "t9",
       "sourceType": "站内苗头",
       "title": "无畏契约 手瓦第三次夜相关讨论",
       "game": "无畏契约",
-      "powerScore": 57,
-      "growth": "+167%",
-      "noteCount": 90,
+      "powerScore": 59,
+      "growth": "+189%",
+      "noteCount": 70,
       "trendType": "讨论型",
-      "firstDetected": "1h前",
-      "appearedAt": "1h前",
+      "firstDetected": "5h前",
+      "appearedAt": "6h前",
       "internalNotes": [
         {
           "title": "手瓦第三次夜市5月23号开启",
           "url": "https://www.xiaohongshu.com/explore/6a0d30bb000000000803e875",
-          "platform": "小红书(219赞)"
+          "platform": "小红书(234赞)"
         },
         {
           "title": "所有人感受",
           "url": "https://www.xiaohongshu.com/explore/6a0d3b310000000008030f6e",
-          "platform": "小红书(179赞)"
+          "platform": "小红书(196赞)"
         },
         {
           "title": "手瓦第三次夜市23号开启",
           "url": "https://www.xiaohongshu.com/explore/6a0d325500000000360002fc",
-          "platform": "小红书(179赞)"
+          "platform": "小红书(196赞)"
         }
       ],
       "externalNotes": [
         {
           "title": "无畏契约讨论",
+          "url": "#",
+          "platform": "小红书"
+        }
+      ],
+      "suggestionDirections": [
+        "图文",
+        "短视频"
+      ],
+      "aiSuggestion": "",
+      "status": "待处理"
+    },
+    {
+      "id": "t10",
+      "sourceType": "站内苗头",
+      "title": "和平精英 沙漠饮料机具相关讨论",
+      "game": "和平精英",
+      "powerScore": 40,
+      "growth": "+123%",
+      "noteCount": 20,
+      "trendType": "讨论型",
+      "firstDetected": "6h前",
+      "appearedAt": "6h前",
+      "internalNotes": [
+        {
+          "title": "沙漠饮料机具体位置！刷密钥《攻",
+          "url": "https://www.xiaohongshu.com/explore/6a0d2df0000000003700dcbb",
+          "platform": "小红书(161赞)"
+        }
+      ],
+      "externalNotes": [
+        {
+          "title": "和平精英讨论",
           "url": "#",
           "platform": "小红书"
         }
@@ -423,9 +413,9 @@
       "last24hGrowth": 1007,
       "lifecycle": "高峰期",
       "typeTag": "讨论型",
-      "firstDetected": "1天前",
-      "appearedAt": "17h前",
-      "difficulty": "低",
+      "firstDetected": "2天前",
+      "appearedAt": "12h前",
+      "difficulty": "中",
       "acceptType": "短视频",
       "internalNotes": [
         {
@@ -445,11 +435,11 @@
       "game": "CSGO",
       "heatScore": 90,
       "cumulativeNotes": 500,
-      "last24hGrowth": 1026,
-      "lifecycle": "上升期",
+      "last24hGrowth": 1027,
+      "lifecycle": "高峰期",
       "typeTag": "讨论型",
       "firstDetected": "3天前",
-      "appearedAt": "16h前",
+      "appearedAt": "4h前",
       "difficulty": "中",
       "acceptType": "短视频",
       "internalNotes": [
@@ -470,13 +460,13 @@
       "game": "PUBG",
       "heatScore": 70,
       "cumulativeNotes": 500,
-      "last24hGrowth": 534,
+      "last24hGrowth": 536,
       "lifecycle": "上升期",
       "typeTag": "讨论型",
-      "firstDetected": "2天前",
-      "appearedAt": "8h前",
-      "difficulty": "中",
-      "acceptType": "短视频",
+      "firstDetected": "1天前",
+      "appearedAt": "11h前",
+      "difficulty": "低",
+      "acceptType": "图文",
       "internalNotes": [
         {
           "title": "打完这一枪接下来十年的pubg",
@@ -498,9 +488,9 @@
       "last24hGrowth": 420,
       "lifecycle": "高峰期",
       "typeTag": "讨论型",
-      "firstDetected": "3天前",
-      "appearedAt": "6h前",
-      "difficulty": "低",
+      "firstDetected": "4天前",
+      "appearedAt": "17h前",
+      "difficulty": "中",
       "acceptType": "图文",
       "internalNotes": [
         {
@@ -520,12 +510,12 @@
       "game": "金铲铲之战",
       "heatScore": 66,
       "cumulativeNotes": 500,
-      "last24hGrowth": 393,
+      "last24hGrowth": 394,
       "lifecycle": "高峰期",
       "typeTag": "讨论型",
-      "firstDetected": "4天前",
-      "appearedAt": "10h前",
-      "difficulty": "中",
+      "firstDetected": "2天前",
+      "appearedAt": "7h前",
+      "difficulty": "低",
       "acceptType": "短视频",
       "internalNotes": [
         {
@@ -540,8 +530,8 @@
     },
     {
       "title": "虎扑游戏电竞",
-      "game": "英雄联盟",
-      "firstDetected": "7h前",
+      "game": "和平精英",
+      "firstDetected": "6h前",
       "appearedAt": "6h前",
       "internalNotes": [],
       "externalNotes": [
@@ -555,8 +545,8 @@
       "status": "待处理",
       "sourceType": "全网热点",
       "heatScore": 65,
-      "cumulativeNotes": 2729,
-      "last24hGrowth": 694,
+      "cumulativeNotes": 2860,
+      "last24hGrowth": 657,
       "lifecycle": "上升期",
       "typeTag": "讨论型",
       "difficulty": "中",
@@ -573,8 +563,8 @@
       "last24hGrowth": 338,
       "lifecycle": "上升期",
       "typeTag": "讨论型",
-      "firstDetected": "3天前",
-      "appearedAt": "18h前",
+      "firstDetected": "1天前",
+      "appearedAt": "11h前",
       "difficulty": "低",
       "acceptType": "短视频",
       "internalNotes": [
@@ -595,13 +585,13 @@
       "game": "王者荣耀",
       "heatScore": 62,
       "cumulativeNotes": 500,
-      "last24hGrowth": 320,
+      "last24hGrowth": 322,
       "lifecycle": "上升期",
       "typeTag": "讨论型",
       "firstDetected": "1天前",
       "appearedAt": "6h前",
-      "difficulty": "中",
-      "acceptType": "图文",
+      "difficulty": "低",
+      "acceptType": "短视频",
       "internalNotes": [
         {
           "title": "无畏：你钎城还怕被压力？！",
@@ -616,21 +606,21 @@
     {
       "id": "h9",
       "sourceType": "社区热点",
-      "title": "小水 你该减肥了",
-      "game": "永劫无间",
+      "title": "怪不得都说农撸不分家呢",
+      "game": "王者",
       "heatScore": 60,
       "cumulativeNotes": 500,
-      "last24hGrowth": 284,
+      "last24hGrowth": 255,
       "lifecycle": "高峰期",
       "typeTag": "讨论型",
-      "firstDetected": "4天前",
-      "appearedAt": "11h前",
-      "difficulty": "中",
+      "firstDetected": "3天前",
+      "appearedAt": "6h前",
+      "difficulty": "低",
       "acceptType": "图文",
       "internalNotes": [
         {
-          "title": "小水 你该减肥了",
-          "url": "https://www.xiaohongshu.com/explore/6a0b914f000000003601ea34",
+          "title": "怪不得都说农撸不分家呢",
+          "url": "https://www.xiaohongshu.com/explore/6a09dec50000000007022447",
           "platform": "小红书"
         }
       ],
@@ -641,21 +631,21 @@
     {
       "id": "h10",
       "sourceType": "社区热点",
-      "title": "朋友说一秒都不用剪",
-      "game": "无畏契约",
-      "heatScore": 59,
+      "title": "小水 你该减肥了",
+      "game": "永劫无间",
+      "heatScore": 60,
       "cumulativeNotes": 500,
-      "last24hGrowth": 253,
+      "last24hGrowth": 286,
       "lifecycle": "上升期",
       "typeTag": "讨论型",
-      "firstDetected": "2天前",
-      "appearedAt": "10h前",
+      "firstDetected": "3天前",
+      "appearedAt": "6h前",
       "difficulty": "低",
-      "acceptType": "短视频",
+      "acceptType": "图文",
       "internalNotes": [
         {
-          "title": "朋友说一秒都不用剪",
-          "url": "https://www.xiaohongshu.com/explore/6a0bc4da0000000036003b67",
+          "title": "小水 你该减肥了",
+          "url": "https://www.xiaohongshu.com/explore/6a0b914f000000003601ea34",
           "platform": "小红书"
         }
       ],
