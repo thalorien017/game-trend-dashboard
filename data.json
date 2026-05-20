@@ -1,16 +1,38 @@
 {
-  "generated_at": "2026-05-20T11:01:55.822616",
+  "generated_at": "2026-05-20T11:37:11.904255",
   "trends": [
     {
       "id": "t1",
+      "title": "瓦瓦原声又吸引到美女了",
+      "game": "无畏契约",
+      "powerScore": 95,
+      "growth": "+299%",
+      "noteCount": 6831,
+      "sourceType": "站内苗头",
+      "trendType": "讨论型",
+      "firstDetected": "1h前",
+      "status": "待处理",
+      "internalNotes": [
+        {
+          "title": "瓦瓦原声又吸引到美女了",
+          "url": "https://www.xiaohongshu.com/explore/69d7a559000000002102c580",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "appearedAt": "4h前"
+    },
+    {
+      "id": "t2",
       "title": "和张凌赫打游戏是种什么体验",
       "game": "王者荣耀",
-      "powerScore": 93,
-      "growth": "+240%",
+      "powerScore": 89,
+      "growth": "+128%",
       "noteCount": 5242,
       "sourceType": "站内苗头",
       "trendType": "讨论型",
-      "firstDetected": "6h前",
+      "firstDetected": "2h前",
       "status": "待处理",
       "internalNotes": [
         {
@@ -24,37 +46,15 @@
       "appearedAt": "3h前"
     },
     {
-      "id": "t2",
-      "title": "瓦瓦原声又吸引到美女了",
-      "game": "无畏契约",
-      "powerScore": 92,
-      "growth": "+94%",
-      "noteCount": 6831,
-      "sourceType": "站内苗头",
-      "trendType": "讨论型",
-      "firstDetected": "4h前",
-      "status": "待处理",
-      "internalNotes": [
-        {
-          "title": "瓦瓦原声又吸引到美女了",
-          "url": "https://www.xiaohongshu.com/explore/69d7a559000000002102c580",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "appearedAt": "6h前"
-    },
-    {
       "id": "t3",
       "title": "姐姐，那年东湖的雨天，我只想与你一起排位",
       "game": "王者荣耀",
-      "powerScore": 90,
-      "growth": "+113%",
+      "powerScore": 83,
+      "growth": "+152%",
       "noteCount": 9740,
       "sourceType": "站内苗头",
       "trendType": "讨论型",
-      "firstDetected": "6h前",
+      "firstDetected": "4h前",
       "status": "待处理",
       "internalNotes": [
         {
@@ -73,17 +73,17 @@
       "id": "h1",
       "title": "姐姐，那年东湖的雨天，我只想与你一起排位",
       "game": "王者荣耀",
-      "heatScore": 93,
+      "heatScore": 95,
       "cumulativeNotes": 25995,
       "last24hGrowth": 38843,
       "lifecycle": "高峰期",
       "sourceType": "社区热点",
       "trendType": "讨论型",
       "typeTag": "讨论型",
-      "firstDetected": "4天前",
+      "firstDetected": "7天前",
       "status": "待处理",
-      "difficulty": "高",
-      "acceptType": "短视频",
+      "difficulty": "低",
+      "acceptType": "图文",
       "internalNotes": [
         {
           "title": "姐姐，那年东湖的雨天，我只想与",
@@ -93,13 +93,13 @@
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "6h前"
+      "appearedAt": "1h前"
     },
     {
       "id": "h2",
       "title": "瓦瓦原声又吸引到美女了",
       "game": "无畏契约",
-      "heatScore": 90,
+      "heatScore": 93,
       "cumulativeNotes": 18236,
       "last24hGrowth": 27204,
       "lifecycle": "上升期",
@@ -109,7 +109,7 @@
       "firstDetected": "2天前",
       "status": "待处理",
       "difficulty": "中",
-      "acceptType": "短视频",
+      "acceptType": "图文",
       "internalNotes": [
         {
           "title": "瓦瓦原声又吸引到美女了",
@@ -119,23 +119,23 @@
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "2h前"
+      "appearedAt": "4h前"
     },
     {
       "id": "h3",
       "title": "和张凌赫打游戏是种什么体验",
       "game": "王者荣耀",
-      "heatScore": 93,
+      "heatScore": 96,
       "cumulativeNotes": 14000,
       "last24hGrowth": 20850,
-      "lifecycle": "高峰期",
+      "lifecycle": "上升期",
       "sourceType": "社区热点",
       "trendType": "讨论型",
       "typeTag": "讨论型",
-      "firstDetected": "6天前",
+      "firstDetected": "7天前",
       "status": "待处理",
-      "difficulty": "高",
-      "acceptType": "图文",
+      "difficulty": "中",
+      "acceptType": "直播",
       "internalNotes": [
         {
           "title": "和张凌赫打游戏是种什么体验",
@@ -145,7 +145,7 @@
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "3h前"
+      "appearedAt": "6h前"
     }
   ]
 }
