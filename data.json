@@ -1,21 +1,131 @@
 {
-  "generated_at": "2026-05-20T11:37:11.904255",
+  "generated_at": "2026-05-20T11:41:11.179358",
   "trends": [
     {
       "id": "t1",
-      "title": "瓦瓦原声又吸引到美女了",
-      "game": "无畏契约",
-      "powerScore": 95,
-      "growth": "+299%",
-      "noteCount": 6831,
+      "title": "王者520三丽鸥祈愿开了！你们都多少出的",
+      "game": "王者荣耀",
+      "powerScore": 55,
+      "growth": "+136%",
+      "noteCount": 36,
       "sourceType": "站内苗头",
       "trendType": "讨论型",
-      "firstDetected": "1h前",
+      "firstDetected": "4h前",
       "status": "待处理",
       "internalNotes": [
         {
-          "title": "瓦瓦原声又吸引到美女了",
-          "url": "https://www.xiaohongshu.com/explore/69d7a559000000002102c580",
+          "title": "王者520三丽鸥祈愿开了！你们",
+          "url": "https://www.xiaohongshu.com/explore/6a0d0e0e0000000007027bae",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "appearedAt": "2h前"
+    },
+    {
+      "id": "t2",
+      "title": "风电的girls night",
+      "game": "英雄联盟",
+      "powerScore": 55,
+      "growth": "+239%",
+      "noteCount": 37,
+      "sourceType": "站内苗头",
+      "trendType": "讨论型",
+      "firstDetected": "4h前",
+      "status": "待处理",
+      "internalNotes": [
+        {
+          "title": "风电的girls night",
+          "url": "https://www.xiaohongshu.com/explore/6a0c7ef9000000000803e8df",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "appearedAt": "6h前"
+    },
+    {
+      "id": "t3",
+      "title": "泰亨在英雄联盟里喜欢打上单中单和打野？？",
+      "game": "英雄联盟",
+      "powerScore": 55,
+      "growth": "+275%",
+      "noteCount": 39,
+      "sourceType": "站内苗头",
+      "trendType": "讨论型",
+      "firstDetected": "4h前",
+      "status": "待处理",
+      "internalNotes": [
+        {
+          "title": "泰亨在英雄联盟里喜欢打上单中单",
+          "url": "https://www.xiaohongshu.com/explore/6a0cfda0000000003700f321",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "appearedAt": "2h前"
+    },
+    {
+      "id": "t4",
+      "title": "我的天太好笑了电竞连续剧",
+      "game": "王者荣耀",
+      "powerScore": 55,
+      "growth": "+267%",
+      "noteCount": 37,
+      "sourceType": "站内苗头",
+      "trendType": "讨论型",
+      "firstDetected": "5h前",
+      "status": "待处理",
+      "internalNotes": [
+        {
+          "title": "我的天太好笑了电竞连续剧",
+          "url": "https://www.xiaohongshu.com/explore/6a0c70b70000000038020957",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "appearedAt": "2h前"
+    },
+    {
+      "id": "t5",
+      "title": "#英雄联盟 #lol #精彩片段",
+      "game": "英雄联盟",
+      "powerScore": 55,
+      "growth": "+162%",
+      "noteCount": 36,
+      "sourceType": "站内苗头",
+      "trendType": "讨论型",
+      "firstDetected": "6h前",
+      "status": "待处理",
+      "internalNotes": [
+        {
+          "title": "#英雄联盟 #lol #精彩片",
+          "url": "https://www.xiaohongshu.com/explore/6a0c2bf10000000007011236",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "appearedAt": "2h前"
+    },
+    {
+      "id": "t6",
+      "title": "夏鸣星｜某电竞选手在女朋友前面好装哦",
+      "game": "王者荣耀",
+      "powerScore": 55,
+      "growth": "+276%",
+      "noteCount": 36,
+      "sourceType": "站内苗头",
+      "trendType": "讨论型",
+      "firstDetected": "3h前",
+      "status": "待处理",
+      "internalNotes": [
+        {
+          "title": "夏鸣星｜某电竞选手在女朋友前面",
+          "url": "https://www.xiaohongshu.com/explore/6a0c9a2e0000000006036323",
           "platform": "小红书"
         }
       ],
@@ -24,48 +134,26 @@
       "appearedAt": "4h前"
     },
     {
-      "id": "t2",
-      "title": "和张凌赫打游戏是种什么体验",
+      "id": "t7",
+      "title": "派克格温！新版强势稳定上分阵容！爽吃🐔",
       "game": "王者荣耀",
-      "powerScore": 89,
-      "growth": "+128%",
-      "noteCount": 5242,
+      "powerScore": 55,
+      "growth": "+226%",
+      "noteCount": 49,
       "sourceType": "站内苗头",
       "trendType": "讨论型",
       "firstDetected": "2h前",
       "status": "待处理",
       "internalNotes": [
         {
-          "title": "和张凌赫打游戏是种什么体验",
-          "url": "https://www.xiaohongshu.com/explore/69898108000000001a01e359",
+          "title": "派克格温！新版强势稳定上分阵容",
+          "url": "https://www.xiaohongshu.com/explore/6a0c2b6200000000060337c3",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "3h前"
-    },
-    {
-      "id": "t3",
-      "title": "姐姐，那年东湖的雨天，我只想与你一起排位",
-      "game": "王者荣耀",
-      "powerScore": 83,
-      "growth": "+152%",
-      "noteCount": 9740,
-      "sourceType": "站内苗头",
-      "trendType": "讨论型",
-      "firstDetected": "4h前",
-      "status": "待处理",
-      "internalNotes": [
-        {
-          "title": "姐姐，那年东湖的雨天，我只想与",
-          "url": "https://www.xiaohongshu.com/explore/686f77ba000000002400a0a2",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "appearedAt": "3h前"
+      "appearedAt": "1h前"
     }
   ],
   "hots": [
@@ -73,16 +161,16 @@
       "id": "h1",
       "title": "姐姐，那年东湖的雨天，我只想与你一起排位",
       "game": "王者荣耀",
-      "heatScore": 95,
+      "heatScore": 96,
       "cumulativeNotes": 25995,
       "last24hGrowth": 38843,
-      "lifecycle": "高峰期",
+      "lifecycle": "上升期",
       "sourceType": "社区热点",
       "trendType": "讨论型",
       "typeTag": "讨论型",
-      "firstDetected": "7天前",
+      "firstDetected": "6天前",
       "status": "待处理",
-      "difficulty": "低",
+      "difficulty": "高",
       "acceptType": "图文",
       "internalNotes": [
         {
@@ -106,10 +194,10 @@
       "sourceType": "社区热点",
       "trendType": "讨论型",
       "typeTag": "讨论型",
-      "firstDetected": "2天前",
+      "firstDetected": "6天前",
       "status": "待处理",
-      "difficulty": "中",
-      "acceptType": "图文",
+      "difficulty": "高",
+      "acceptType": "直播",
       "internalNotes": [
         {
           "title": "瓦瓦原声又吸引到美女了",
@@ -119,23 +207,23 @@
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "4h前"
+      "appearedAt": "5h前"
     },
     {
       "id": "h3",
       "title": "和张凌赫打游戏是种什么体验",
       "game": "王者荣耀",
-      "heatScore": 96,
+      "heatScore": 93,
       "cumulativeNotes": 14000,
       "last24hGrowth": 20850,
       "lifecycle": "上升期",
       "sourceType": "社区热点",
       "trendType": "讨论型",
       "typeTag": "讨论型",
-      "firstDetected": "7天前",
+      "firstDetected": "4天前",
       "status": "待处理",
-      "difficulty": "中",
-      "acceptType": "直播",
+      "difficulty": "低",
+      "acceptType": "短视频",
       "internalNotes": [
         {
           "title": "和张凌赫打游戏是种什么体验",
@@ -145,7 +233,7 @@
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "6h前"
+      "appearedAt": "3h前"
     }
   ]
 }
