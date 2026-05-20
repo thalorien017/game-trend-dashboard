@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-05-20T10:35:48.225524",
+  "generated_at": "2026-05-20T11:01:55.822616",
   "trends": [
     {
       "id": "t1",
-      "title": "瓦瓦原声又吸引到美女了",
-      "game": "无畏契约",
-      "powerScore": 94,
-      "growth": "+297%",
-      "noteCount": 6831,
+      "title": "和张凌赫打游戏是种什么体验",
+      "game": "王者荣耀",
+      "powerScore": 93,
+      "growth": "+240%",
+      "noteCount": 5242,
       "sourceType": "站内苗头",
       "trendType": "讨论型",
       "firstDetected": "6h前",
       "status": "待处理",
       "internalNotes": [
         {
-          "title": "瓦瓦原声又吸引到美女了",
-          "url": "https://www.xiaohongshu.com/explore/69d7a559000000002102c580",
+          "title": "和张凌赫打游戏是种什么体验",
+          "url": "https://www.xiaohongshu.com/explore/69898108000000001a01e359",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "5h前"
+      "appearedAt": "3h前"
     },
     {
       "id": "t2",
-      "title": "和张凌赫打游戏是种什么体验",
-      "game": "王者荣耀",
-      "powerScore": 85,
-      "growth": "+284%",
-      "noteCount": 5242,
+      "title": "瓦瓦原声又吸引到美女了",
+      "game": "无畏契约",
+      "powerScore": 92,
+      "growth": "+94%",
+      "noteCount": 6831,
       "sourceType": "站内苗头",
       "trendType": "讨论型",
       "firstDetected": "4h前",
       "status": "待处理",
       "internalNotes": [
         {
-          "title": "和张凌赫打游戏是种什么体验",
-          "url": "https://www.xiaohongshu.com/explore/69898108000000001a01e359",
+          "title": "瓦瓦原声又吸引到美女了",
+          "url": "https://www.xiaohongshu.com/explore/69d7a559000000002102c580",
           "platform": "小红书"
         }
       ],
@@ -49,12 +49,12 @@
       "id": "t3",
       "title": "姐姐，那年东湖的雨天，我只想与你一起排位",
       "game": "王者荣耀",
-      "powerScore": 81,
-      "growth": "+138%",
+      "powerScore": 90,
+      "growth": "+113%",
       "noteCount": 9740,
       "sourceType": "站内苗头",
       "trendType": "讨论型",
-      "firstDetected": "3h前",
+      "firstDetected": "6h前",
       "status": "待处理",
       "internalNotes": [
         {
@@ -65,7 +65,7 @@
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "4h前"
+      "appearedAt": "3h前"
     }
   ],
   "hots": [
@@ -73,17 +73,17 @@
       "id": "h1",
       "title": "姐姐，那年东湖的雨天，我只想与你一起排位",
       "game": "王者荣耀",
-      "heatScore": 94,
+      "heatScore": 93,
       "cumulativeNotes": 25995,
       "last24hGrowth": 38843,
       "lifecycle": "高峰期",
       "sourceType": "社区热点",
       "trendType": "讨论型",
       "typeTag": "讨论型",
-      "firstDetected": "3天前",
+      "firstDetected": "4天前",
       "status": "待处理",
-      "difficulty": "低",
-      "acceptType": "直播",
+      "difficulty": "高",
+      "acceptType": "短视频",
       "internalNotes": [
         {
           "title": "姐姐，那年东湖的雨天，我只想与",
@@ -93,22 +93,22 @@
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "2h前"
+      "appearedAt": "6h前"
     },
     {
       "id": "h2",
       "title": "瓦瓦原声又吸引到美女了",
       "game": "无畏契约",
-      "heatScore": 88,
+      "heatScore": 90,
       "cumulativeNotes": 18236,
       "last24hGrowth": 27204,
       "lifecycle": "上升期",
       "sourceType": "社区热点",
       "trendType": "讨论型",
       "typeTag": "讨论型",
-      "firstDetected": "3天前",
+      "firstDetected": "2天前",
       "status": "待处理",
-      "difficulty": "高",
+      "difficulty": "中",
       "acceptType": "短视频",
       "internalNotes": [
         {
@@ -119,23 +119,23 @@
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "3h前"
+      "appearedAt": "2h前"
     },
     {
       "id": "h3",
       "title": "和张凌赫打游戏是种什么体验",
       "game": "王者荣耀",
-      "heatScore": 90,
+      "heatScore": 93,
       "cumulativeNotes": 14000,
       "last24hGrowth": 20850,
       "lifecycle": "高峰期",
       "sourceType": "社区热点",
       "trendType": "讨论型",
       "typeTag": "讨论型",
-      "firstDetected": "7天前",
+      "firstDetected": "6天前",
       "status": "待处理",
-      "difficulty": "低",
-      "acceptType": "直播",
+      "difficulty": "高",
+      "acceptType": "图文",
       "internalNotes": [
         {
           "title": "和张凌赫打游戏是种什么体验",
@@ -145,7 +145,7 @@
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "6h前"
+      "appearedAt": "3h前"
     }
   ]
 }
