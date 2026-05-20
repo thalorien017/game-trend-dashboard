@@ -1,6 +1,123 @@
 {
-  "generated_at": "2026-05-20T12:27:15.256561",
-  "trends": [],
+  "generated_at": "2026-05-20T12:29:53.263148",
+  "trends": [
+    {
+      "sourceType": "站内苗头",
+      "title": "英雄联盟 技巧/方法讨论热度上升",
+      "game": "英雄联盟",
+      "powerScore": 59,
+      "growth": "+250%",
+      "noteCount": 42,
+      "trendType": "讨论型",
+      "firstDetected": "2h前",
+      "appearedAt": "5h前",
+      "internalNotes": [
+        {
+          "title": "泰亨在英雄联盟里喜欢打上单中单",
+          "url": "https://www.xiaohongshu.com/explore/6a0cfda0000000003700f321",
+          "platform": "小红书"
+        },
+        {
+          "title": "英雄联盟 操作 高光时刻",
+          "url": "https://www.xiaohongshu.com/explore/6a0cc4c1000000003601ae01",
+          "platform": "小红书"
+        },
+        {
+          "title": "假如英雄联盟设计师要删掉一个废",
+          "url": "https://www.xiaohongshu.com/explore/6a0c6eba0000000035023b5c",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [
+        {
+          "title": "英雄联盟话题",
+          "url": "#",
+          "platform": "小红书"
+        }
+      ],
+      "suggestionDirections": [
+        "图文",
+        "短视频"
+      ],
+      "aiSuggestion": "",
+      "status": "待处理",
+      "id": "t1"
+    },
+    {
+      "sourceType": "站内苗头",
+      "title": "金铲铲之战 赛季",
+      "game": "金铲铲之战",
+      "powerScore": 46,
+      "growth": "+178%",
+      "noteCount": 20,
+      "trendType": "创作型",
+      "firstDetected": "4h前",
+      "appearedAt": "2h前",
+      "internalNotes": [
+        {
+          "title": "金铲铲s17新赛季5月19日最",
+          "url": "https://www.xiaohongshu.com/explore/6a0c3f530000000008031786",
+          "platform": "小红书(379赞)"
+        },
+        {
+          "title": "S17三星四费强度排行榜与出装",
+          "url": "https://www.xiaohongshu.com/explore/6a0bede000000000080334df",
+          "platform": "小红书(110赞)"
+        }
+      ],
+      "externalNotes": [
+        {
+          "title": "金铲铲之战 赛季",
+          "url": "#",
+          "platform": "小红书"
+        }
+      ],
+      "suggestionDirections": [
+        "图文",
+        "短视频"
+      ],
+      "aiSuggestion": "",
+      "status": "待处理",
+      "id": "t2"
+    },
+    {
+      "sourceType": "站内苗头",
+      "title": "王者荣耀 赛季",
+      "game": "王者荣耀",
+      "powerScore": 45,
+      "growth": "+166%",
+      "noteCount": 30,
+      "trendType": "创作型",
+      "firstDetected": "3h前",
+      "appearedAt": "2h前",
+      "internalNotes": [
+        {
+          "title": "360度say hi！",
+          "url": "https://www.xiaohongshu.com/explore/6a0d2b2000000000380227cf",
+          "platform": "小红书(156赞)"
+        },
+        {
+          "title": "去年情人节VS今年情人节",
+          "url": "https://www.xiaohongshu.com/explore/6a0cfe06000000003703402a",
+          "platform": "小红书(123赞)"
+        }
+      ],
+      "externalNotes": [
+        {
+          "title": "王者荣耀 赛季",
+          "url": "#",
+          "platform": "小红书"
+        }
+      ],
+      "suggestionDirections": [
+        "图文",
+        "短视频"
+      ],
+      "aiSuggestion": "",
+      "status": "待处理",
+      "id": "t3"
+    }
+  ],
   "hots": [
     {
       "sourceType": "社区热点",
@@ -9,12 +126,12 @@
       "heatScore": 69,
       "cumulativeNotes": 500,
       "last24hGrowth": 420,
-      "lifecycle": "上升期",
+      "lifecycle": "高峰期",
       "typeTag": "讨论型",
       "firstDetected": "2天前",
-      "appearedAt": "18h前",
+      "appearedAt": "17h前",
       "difficulty": "低",
-      "acceptType": "图文",
+      "acceptType": "短视频",
       "internalNotes": [
         {
           "title": "Faker选择和Karina玩",
@@ -34,12 +151,12 @@
       "heatScore": 69,
       "cumulativeNotes": 500,
       "last24hGrowth": 317,
-      "lifecycle": "上升期",
+      "lifecycle": "高峰期",
       "typeTag": "讨论型",
-      "firstDetected": "1天前",
-      "appearedAt": "6h前",
-      "difficulty": "低",
-      "acceptType": "图文",
+      "firstDetected": "4天前",
+      "appearedAt": "9h前",
+      "difficulty": "中",
+      "acceptType": "短视频",
       "internalNotes": [
         {
           "title": "猎奇+可爱！【大眼首款T2皮肤",
@@ -61,8 +178,8 @@
       "last24hGrowth": 312,
       "lifecycle": "上升期",
       "typeTag": "讨论型",
-      "firstDetected": "3天前",
-      "appearedAt": "22h前",
+      "firstDetected": "4天前",
+      "appearedAt": "16h前",
       "difficulty": "低",
       "acceptType": "图文",
       "internalNotes": [
@@ -86,10 +203,10 @@
       "last24hGrowth": 252,
       "lifecycle": "上升期",
       "typeTag": "讨论型",
-      "firstDetected": "4天前",
-      "appearedAt": "6h前",
+      "firstDetected": "3天前",
+      "appearedAt": "19h前",
       "difficulty": "低",
-      "acceptType": "图文",
+      "acceptType": "短视频",
       "internalNotes": [
         {
           "title": "怪不得都说农撸不分家呢",
@@ -108,11 +225,11 @@
       "game": "王者荣耀",
       "heatScore": 60,
       "cumulativeNotes": 500,
-      "last24hGrowth": 238,
+      "last24hGrowth": 239,
       "lifecycle": "高峰期",
       "typeTag": "讨论型",
-      "firstDetected": "5天前",
-      "appearedAt": "15h前",
+      "firstDetected": "4天前",
+      "appearedAt": "11h前",
       "difficulty": "低",
       "acceptType": "短视频",
       "internalNotes": [
@@ -136,8 +253,8 @@
       "last24hGrowth": 192,
       "lifecycle": "上升期",
       "typeTag": "讨论型",
-      "firstDetected": "4天前",
-      "appearedAt": "14h前",
+      "firstDetected": "2天前",
+      "appearedAt": "7h前",
       "difficulty": "中",
       "acceptType": "短视频",
       "internalNotes": [
@@ -162,8 +279,8 @@
       "lifecycle": "高峰期",
       "typeTag": "讨论型",
       "firstDetected": "2天前",
-      "appearedAt": "23h前",
-      "difficulty": "低",
+      "appearedAt": "21h前",
+      "difficulty": "中",
       "acceptType": "短视频",
       "internalNotes": [
         {
@@ -184,12 +301,12 @@
       "heatScore": 58,
       "cumulativeNotes": 500,
       "last24hGrowth": 193,
-      "lifecycle": "高峰期",
+      "lifecycle": "上升期",
       "typeTag": "讨论型",
-      "firstDetected": "1天前",
-      "appearedAt": "16h前",
+      "firstDetected": "5天前",
+      "appearedAt": "17h前",
       "difficulty": "中",
-      "acceptType": "图文",
+      "acceptType": "短视频",
       "internalNotes": [
         {
           "title": "隐藏款指挥官密钥高效速刷方法",
@@ -208,13 +325,13 @@
       "game": "无畏契约",
       "heatScore": 58,
       "cumulativeNotes": 500,
-      "last24hGrowth": 183,
+      "last24hGrowth": 184,
       "lifecycle": "上升期",
       "typeTag": "讨论型",
-      "firstDetected": "5天前",
-      "appearedAt": "8h前",
-      "difficulty": "低",
-      "acceptType": "图文",
+      "firstDetected": "3天前",
+      "appearedAt": "21h前",
+      "difficulty": "中",
+      "acceptType": "短视频",
       "internalNotes": [
         {
           "title": "我得了一种看到无畏契约梗图就笑",
@@ -237,8 +354,8 @@
       "lifecycle": "上升期",
       "typeTag": "讨论型",
       "firstDetected": "3天前",
-      "appearedAt": "6h前",
-      "difficulty": "低",
+      "appearedAt": "7h前",
+      "difficulty": "中",
       "acceptType": "短视频",
       "internalNotes": [
         {
