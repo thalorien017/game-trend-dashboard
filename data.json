@@ -1,74 +1,30 @@
 {
-  "generated_at": "2026-05-20T11:53:49.841249",
+  "generated_at": "2026-05-20T12:01:56.449342",
   "trends": [
     {
-      "title": "三角洲绝密个人护航（包绿）",
-      "game": "三角洲行动",
-      "sourceType": "站内苗头",
-      "trendType": "创作型",
-      "firstDetected": "1h前",
-      "appearedAt": "1h前",
-      "internalNotes": [
-        {
-          "title": "三角洲绝密个人护航（包绿）",
-          "url": "https://www.xiaohongshu.com/explore/6a0d2fbc000000003701cbc4",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "powerScore": 61,
-      "growth": "+182%",
-      "noteCount": 20,
-      "status": "待处理",
-      "id": "t1"
-    },
-    {
-      "title": "有需要铲铲代打的吗 ios",
-      "game": "金铲铲之战",
+      "title": "鸭头，情人节快乐，所以今天你会上线吗？",
+      "game": "永劫无间",
       "sourceType": "站内苗头",
       "trendType": "讨论型",
       "firstDetected": "1h前",
       "appearedAt": "1h前",
       "internalNotes": [
         {
-          "title": "有需要铲铲代打的吗 ios",
-          "url": "https://www.xiaohongshu.com/explore/6a0d2f5a000000000602001b",
+          "title": "鸭头，情人节快乐，所以今天你会",
+          "url": "https://www.xiaohongshu.com/explore/6a0d310b0000000036032727",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "powerScore": 60,
-      "growth": "+115%",
+      "powerScore": 63,
+      "growth": "+361%",
       "noteCount": 20,
       "status": "待处理",
-      "id": "t2"
+      "id": "t1"
     },
     {
-      "title": "季莹莹谪星",
-      "game": "永劫无间",
-      "sourceType": "站内苗头",
-      "trendType": "创作型",
-      "firstDetected": "1h前",
-      "appearedAt": "1h前",
-      "internalNotes": [
-        {
-          "title": "季莹莹谪星",
-          "url": "https://www.xiaohongshu.com/explore/6a0d2f71000000003701ca13",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "powerScore": 60,
-      "growth": "+318%",
-      "noteCount": 20,
-      "status": "待处理",
-      "id": "t3"
-    },
-    {
-      "title": "妹宝",
+      "title": "狸。",
       "game": "英雄联盟",
       "sourceType": "站内苗头",
       "trendType": "创作型",
@@ -76,131 +32,109 @@
       "appearedAt": "1h前",
       "internalNotes": [
         {
-          "title": "妹宝",
-          "url": "https://www.xiaohongshu.com/explore/6a0d2efc0000000035022e69",
+          "title": "狸。",
+          "url": "https://www.xiaohongshu.com/explore/6a0d3143000000003601c03f",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "powerScore": 59,
-      "growth": "+272%",
+      "powerScore": 62,
+      "growth": "+395%",
       "noteCount": 20,
       "status": "待处理",
-      "id": "t4"
+      "id": "t2"
     },
     {
-      "title": "那个点位才是你心中的南波万",
-      "game": "暗区突围",
+      "title": "我爱罗桶装运动裤",
+      "game": "火影忍者",
       "sourceType": "站内苗头",
       "trendType": "创作型",
       "firstDetected": "1h前",
       "appearedAt": "1h前",
       "internalNotes": [
         {
-          "title": "那个点位才是你心中的南波万",
-          "url": "https://www.xiaohongshu.com/explore/6a0d2f6b000000003700e50c",
+          "title": "我爱罗桶装运动裤",
+          "url": "https://www.xiaohongshu.com/explore/6a0d316a000000000803ebbd",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "powerScore": 58,
-      "growth": "+399%",
+      "powerScore": 62,
+      "growth": "+136%",
       "noteCount": 20,
       "status": "待处理",
-      "id": "t5"
+      "id": "t3"
     },
     {
-      "title": "这个莫辛太帅了，受不了",
-      "game": "暗区突围",
+      "title": "谁说S7没有奥拉夫？",
+      "game": "金铲铲之战",
       "sourceType": "站内苗头",
       "trendType": "讨论型",
       "firstDetected": "1h前",
       "appearedAt": "1h前",
       "internalNotes": [
         {
-          "title": "这个莫辛太帅了，受不了",
-          "url": "https://www.xiaohongshu.com/explore/6a0d2f0500000000070210e9",
+          "title": "谁说S7没有奥拉夫？",
+          "url": "https://www.xiaohongshu.com/explore/6a0d31980000000006035242",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "powerScore": 61,
+      "growth": "+198%",
+      "noteCount": 20,
+      "status": "待处理",
+      "id": "t4"
+    },
+    {
+      "title": "🎁狼蛛SC800MAX|疾速操控，无惧干扰",
+      "game": "无畏契约",
+      "sourceType": "站内苗头",
+      "trendType": "创作型",
+      "firstDetected": "1h前",
+      "appearedAt": "1h前",
+      "internalNotes": [
+        {
+          "title": "🎁狼蛛SC800MAX|疾速操",
+          "url": "https://www.xiaohongshu.com/explore/6a0d31d3000000003700f2e3",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "powerScore": 60,
+      "growth": "+146%",
+      "noteCount": 20,
+      "status": "待处理",
+      "id": "t5"
+    },
+    {
+      "title": "🌹",
+      "game": "无畏契约",
+      "sourceType": "站内苗头",
+      "trendType": "创作型",
+      "firstDetected": "1h前",
+      "appearedAt": "1h前",
+      "internalNotes": [
+        {
+          "title": "🌹",
+          "url": "https://www.xiaohongshu.com/explore/6a0c963c000000003601be57",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
       "powerScore": 58,
-      "growth": "+379%",
+      "growth": "+123%",
       "noteCount": 20,
       "status": "待处理",
       "id": "t6"
     },
     {
-      "title": "暗区的画质，下雨天更有韵味",
-      "game": "暗区突围",
-      "sourceType": "站内苗头",
-      "trendType": "创作型",
-      "firstDetected": "1h前",
-      "appearedAt": "1h前",
-      "internalNotes": [
-        {
-          "title": "暗区的画质，下雨天更有韵味",
-          "url": "https://www.xiaohongshu.com/explore/6a0d2e1f00000000370369fa",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "powerScore": 58,
-      "growth": "+349%",
-      "noteCount": 20,
-      "status": "待处理",
-      "id": "t7"
-    },
-    {
-      "title": "蹲个有麦的pubg好友 一起通宵一起双排",
-      "game": "PUBG",
-      "sourceType": "站内苗头",
-      "trendType": "创作型",
-      "firstDetected": "1h前",
-      "appearedAt": "1h前",
-      "internalNotes": [
-        {
-          "title": "蹲个有麦的pubg好友 一起通",
-          "url": "https://www.xiaohongshu.com/explore/6a0d2ee60000000036002f84",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "powerScore": 56,
-      "growth": "+358%",
-      "noteCount": 20,
-      "status": "待处理",
-      "id": "t8"
-    },
-    {
-      "title": "和平精英抢先版",
-      "game": "和平精英",
-      "sourceType": "站内苗头",
-      "trendType": "创作型",
-      "firstDetected": "1h前",
-      "appearedAt": "1h前",
-      "internalNotes": [
-        {
-          "title": "和平精英抢先版",
-          "url": "https://www.xiaohongshu.com/explore/6a0d2fcc000000000803e3a5",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "powerScore": 55,
-      "growth": "+387%",
-      "noteCount": 20,
-      "status": "待处理",
-      "id": "t9"
-    },
-    {
-      "title": "哈佛比 出租",
+      "title": "520快乐",
       "game": "三角洲行动",
       "sourceType": "站内苗头",
       "trendType": "创作型",
@@ -208,15 +142,81 @@
       "appearedAt": "1h前",
       "internalNotes": [
         {
-          "title": "哈佛比 出租",
-          "url": "https://www.xiaohongshu.com/explore/6a0d2fd400000000360034a7",
+          "title": "520快乐",
+          "url": "https://www.xiaohongshu.com/explore/6a0d31ae000000000702d1cb",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "powerScore": 57,
+      "growth": "+147%",
+      "noteCount": 20,
+      "status": "待处理",
+      "id": "t7"
+    },
+    {
+      "title": "你对人家有多少喜欢？",
+      "game": "火影忍者",
+      "sourceType": "站内苗头",
+      "trendType": "讨论型",
+      "firstDetected": "1h前",
+      "appearedAt": "1h前",
+      "internalNotes": [
+        {
+          "title": "你对人家有多少喜欢？",
+          "url": "https://www.xiaohongshu.com/explore/6a0d31850000000036003e27",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "powerScore": 57,
+      "growth": "+394%",
+      "noteCount": 20,
+      "status": "待处理",
+      "id": "t8"
+    },
+    {
+      "title": "居然骂我是杂鱼",
+      "game": "暗区突围",
+      "sourceType": "站内苗头",
+      "trendType": "创作型",
+      "firstDetected": "1h前",
+      "appearedAt": "1h前",
+      "internalNotes": [
+        {
+          "title": "居然骂我是杂鱼",
+          "url": "https://www.xiaohongshu.com/explore/6a0d30720000000006032f60",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "powerScore": 57,
+      "growth": "+354%",
+      "noteCount": 20,
+      "status": "待处理",
+      "id": "t9"
+    },
+    {
+      "title": "蹲蹲接手的姐妹",
+      "game": "王者荣耀",
+      "sourceType": "站内苗头",
+      "trendType": "创作型",
+      "firstDetected": "1h前",
+      "appearedAt": "1h前",
+      "internalNotes": [
+        {
+          "title": "蹲蹲接手的姐妹",
+          "url": "https://www.xiaohongshu.com/explore/6a0d31d9000000000702d2ba",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
       "powerScore": 55,
-      "growth": "+377%",
+      "growth": "+96%",
       "noteCount": 20,
       "status": "待处理",
       "id": "t10"
@@ -244,7 +244,7 @@
       "last24hGrowth": 101927,
       "lifecycle": "上升期",
       "typeTag": "创作型",
-      "difficulty": "中",
+      "difficulty": "高",
       "acceptType": "短视频",
       "status": "待处理",
       "id": "h1"
@@ -271,7 +271,7 @@
       "lifecycle": "高峰期",
       "typeTag": "创作型",
       "difficulty": "低",
-      "acceptType": "图文",
+      "acceptType": "通告",
       "status": "待处理",
       "id": "h2"
     },
@@ -294,10 +294,10 @@
       "heatScore": 97,
       "cumulativeNotes": 58264,
       "last24hGrowth": 77686,
-      "lifecycle": "上升期",
+      "lifecycle": "高峰期",
       "typeTag": "创作型",
-      "difficulty": "低",
-      "acceptType": "短视频",
+      "difficulty": "中",
+      "acceptType": "图文",
       "status": "待处理",
       "id": "h3"
     },
@@ -320,10 +320,10 @@
       "heatScore": 97,
       "cumulativeNotes": 42090,
       "last24hGrowth": 56120,
-      "lifecycle": "上升期",
+      "lifecycle": "高峰期",
       "typeTag": "创作型",
       "difficulty": "中",
-      "acceptType": "通告",
+      "acceptType": "图文",
       "status": "待处理",
       "id": "h4"
     },
@@ -346,10 +346,10 @@
       "heatScore": 97,
       "cumulativeNotes": 41264,
       "last24hGrowth": 55018,
-      "lifecycle": "上升期",
+      "lifecycle": "高峰期",
       "typeTag": "创作型",
-      "difficulty": "低",
-      "acceptType": "图文",
+      "difficulty": "高",
+      "acceptType": "通告",
       "status": "待处理",
       "id": "h5"
     },
@@ -372,9 +372,9 @@
       "heatScore": 97,
       "cumulativeNotes": 46340,
       "last24hGrowth": 61787,
-      "lifecycle": "上升期",
+      "lifecycle": "高峰期",
       "typeTag": "讨论型",
-      "difficulty": "低",
+      "difficulty": "高",
       "acceptType": "通告",
       "status": "待处理",
       "id": "h6"
@@ -398,10 +398,10 @@
       "heatScore": 97,
       "cumulativeNotes": 40806,
       "last24hGrowth": 54408,
-      "lifecycle": "上升期",
+      "lifecycle": "高峰期",
       "typeTag": "讨论型",
       "difficulty": "中",
-      "acceptType": "图文",
+      "acceptType": "短视频",
       "status": "待处理",
       "id": "h7"
     },
@@ -424,10 +424,10 @@
       "heatScore": 97,
       "cumulativeNotes": 31275,
       "last24hGrowth": 41700,
-      "lifecycle": "高峰期",
+      "lifecycle": "上升期",
       "typeTag": "创作型",
-      "difficulty": "低",
-      "acceptType": "通告",
+      "difficulty": "高",
+      "acceptType": "短视频",
       "status": "待处理",
       "id": "h8"
     },
@@ -452,8 +452,8 @@
       "last24hGrowth": 82709,
       "lifecycle": "高峰期",
       "typeTag": "创作型",
-      "difficulty": "高",
-      "acceptType": "图文",
+      "difficulty": "低",
+      "acceptType": "短视频",
       "status": "待处理",
       "id": "h9"
     },
@@ -476,10 +476,10 @@
       "heatScore": 97,
       "cumulativeNotes": 45519,
       "last24hGrowth": 60692,
-      "lifecycle": "高峰期",
+      "lifecycle": "衰退期",
       "typeTag": "创作型",
-      "difficulty": "低",
-      "acceptType": "通告",
+      "difficulty": "高",
+      "acceptType": "图文",
       "status": "待处理",
       "id": "h10"
     }
