@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-20T10:30:15.722618",
+  "generated_at": "2026-05-20T10:33:43.883400",
   "trends": [
     {
       "id": "t1",
-      "title": "这就是讨好型coser格吗…",
+      "title": "和张凌赫打游戏是种什么体验",
       "game": "王者荣耀",
-      "powerScore": 95,
-      "growth": "+185%",
-      "noteCount": 10242,
+      "powerScore": 93,
+      "growth": "+137%",
+      "noteCount": 5242,
       "sourceType": "站内苗头",
-      "firstDetected": "2h前",
-      "trendType": "创作型",
+      "trendType": "讨论型",
+      "firstDetected": "3h前",
       "status": "待处理",
       "internalNotes": [
         {
-          "title": "这就是讨好型coser格吗…",
-          "url": "https://www.xiaohongshu.com/explore/6818911a000000002001ea57",
+          "title": "和张凌赫打游戏是种什么体验",
+          "url": "https://www.xiaohongshu.com/explore/69898108000000001a01e359",
           "platform": "小红书"
         }
       ],
@@ -25,41 +25,19 @@
     },
     {
       "id": "t2",
-      "title": "外出住宿必备！ 1秒快速检测针孔摄像头",
-      "game": "王者荣耀",
-      "powerScore": 95,
-      "growth": "+217%",
-      "noteCount": 8268,
+      "title": "瓦瓦原声又吸引到美女了",
+      "game": "无畏契约",
+      "powerScore": 91,
+      "growth": "+135%",
+      "noteCount": 6831,
       "sourceType": "站内苗头",
-      "firstDetected": "3h前",
       "trendType": "讨论型",
+      "firstDetected": "1h前",
       "status": "待处理",
       "internalNotes": [
         {
-          "title": "外出住宿必备！ 1秒快速检测针",
-          "url": "https://www.xiaohongshu.com/explore/64365152000000000800fef1",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "appearedAt": "2h前"
-    },
-    {
-      "id": "t3",
-      "title": "姐姐，那年东湖的雨天，我只想与你一起排位",
-      "game": "王者荣耀",
-      "powerScore": 95,
-      "growth": "+170%",
-      "noteCount": 7818,
-      "sourceType": "站内苗头",
-      "firstDetected": "5h前",
-      "trendType": "讨论型",
-      "status": "待处理",
-      "internalNotes": [
-        {
-          "title": "姐姐，那年东湖的雨天，我只想与",
-          "url": "https://www.xiaohongshu.com/explore/686f77ba000000002400a0a2",
+          "title": "瓦瓦原声又吸引到美女了",
+          "url": "https://www.xiaohongshu.com/explore/69d7a559000000002102c580",
           "platform": "小红书"
         }
       ],
@@ -68,132 +46,16 @@
       "appearedAt": "3h前"
     },
     {
-      "id": "t4",
-      "title": "住酒店被偷拍？老阿姨教你自查合理要赔偿！",
-      "game": "王者荣耀",
-      "powerScore": 95,
-      "growth": "+155%",
-      "noteCount": 7333,
-      "sourceType": "站内苗头",
-      "firstDetected": "4h前",
-      "trendType": "讨论型",
-      "status": "待处理",
-      "internalNotes": [
-        {
-          "title": "住酒店被偷拍？老阿姨教你自查合",
-          "url": "https://www.xiaohongshu.com/explore/69552033000000001e0257a9",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "appearedAt": "4h前"
-    },
-    {
-      "id": "t5",
-      "title": "既然你两这么有缘的话，不如…",
-      "game": "和平精英",
-      "powerScore": 95,
-      "growth": "+267%",
-      "noteCount": 5662,
-      "sourceType": "站内苗头",
-      "firstDetected": "1h前",
-      "trendType": "讨论型",
-      "status": "待处理",
-      "internalNotes": [
-        {
-          "title": "既然你两这么有缘的话，不如…",
-          "url": "https://www.xiaohongshu.com/explore/67dd33a4000000001d03868e",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "appearedAt": "1h前"
-    },
-    {
-      "id": "t6",
-      "title": "某些场景第一眼就知道一定能出片",
-      "game": "和平精英",
-      "powerScore": 95,
-      "growth": "+311%",
-      "noteCount": 5551,
-      "sourceType": "站内苗头",
-      "firstDetected": "6h前",
-      "trendType": "讨论型",
-      "status": "待处理",
-      "internalNotes": [
-        {
-          "title": "某些场景第一眼就知道一定能出片",
-          "url": "https://www.xiaohongshu.com/explore/6777c890000000000902f6de",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "appearedAt": "2h前"
-    }
-  ],
-  "hots": [
-    {
-      "id": "h1",
-      "title": "这就是讨好型coser格吗…",
-      "game": "王者荣耀",
-      "heatScore": 95,
-      "cumulativeNotes": 20485,
-      "last24hGrowth": 50963,
-      "lifecycle": "高峰期",
-      "sourceType": "社区热点",
-      "typeTag": "创作型",
-      "firstDetected": "7天前",
-      "internalNotes": [
-        {
-          "title": "这就是讨好型coser格吗…",
-          "url": "https://www.xiaohongshu.com/explore/6818911a000000002001ea57",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "difficulty": "高",
-      "acceptType": "短视频",
-      "appearedAt": "21h前"
-    },
-    {
-      "id": "h2",
-      "title": "外出住宿必备！ 1秒快速检测针孔摄像头",
-      "game": "王者荣耀",
-      "heatScore": 95,
-      "cumulativeNotes": 16536,
-      "last24hGrowth": 41091,
-      "lifecycle": "高峰期",
-      "sourceType": "社区热点",
-      "typeTag": "讨论型",
-      "firstDetected": "3天前",
-      "internalNotes": [
-        {
-          "title": "外出住宿必备！ 1秒快速检测针",
-          "url": "https://www.xiaohongshu.com/explore/64365152000000000800fef1",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "difficulty": "低",
-      "acceptType": "图文",
-      "appearedAt": "14h前"
-    },
-    {
-      "id": "h3",
+      "id": "t3",
       "title": "姐姐，那年东湖的雨天，我只想与你一起排位",
       "game": "王者荣耀",
-      "heatScore": 95,
-      "cumulativeNotes": 15637,
-      "last24hGrowth": 38843,
-      "lifecycle": "高峰期",
-      "sourceType": "社区热点",
-      "typeTag": "讨论型",
-      "firstDetected": "4天前",
+      "powerScore": 82,
+      "growth": "+224%",
+      "noteCount": 9740,
+      "sourceType": "站内苗头",
+      "trendType": "讨论型",
+      "firstDetected": "2h前",
+      "status": "待处理",
       "internalNotes": [
         {
           "title": "姐姐，那年东湖的雨天，我只想与",
@@ -203,128 +65,60 @@
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "difficulty": "低",
-      "acceptType": "图文",
-      "appearedAt": "20h前"
-    },
+      "appearedAt": "4h前"
+    }
+  ],
+  "hots": [
     {
-      "id": "h4",
-      "title": "既然你两这么有缘的话，不如…",
-      "game": "和平精英",
-      "heatScore": 95,
-      "cumulativeNotes": 11324,
-      "last24hGrowth": 28060,
-      "lifecycle": "高峰期",
+      "id": "h1",
+      "title": "瓦瓦原声又吸引到美女了",
+      "game": "无畏契约",
+      "heatScore": 89,
+      "cumulativeNotes": 18236,
+      "last24hGrowth": 27204,
+      "lifecycle": "上升期",
       "sourceType": "社区热点",
-      "typeTag": "讨论型",
-      "firstDetected": "5天前",
-      "internalNotes": [
-        {
-          "title": "既然你两这么有缘的话，不如…",
-          "url": "https://www.xiaohongshu.com/explore/67dd33a4000000001d03868e",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "difficulty": "高",
-      "acceptType": "直播",
-      "appearedAt": "10h前"
-    },
-    {
-      "id": "h5",
-      "title": "某些场景第一眼就知道一定能出片",
-      "game": "和平精英",
-      "heatScore": 95,
-      "cumulativeNotes": 11103,
-      "last24hGrowth": 27509,
-      "lifecycle": "高峰期",
-      "sourceType": "社区热点",
+      "trendType": "讨论型",
       "typeTag": "讨论型",
       "firstDetected": "3天前",
-      "internalNotes": [
-        {
-          "title": "某些场景第一眼就知道一定能出片",
-          "url": "https://www.xiaohongshu.com/explore/6777c890000000000902f6de",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "difficulty": "中",
-      "acceptType": "直播",
-      "appearedAt": "18h前"
-    },
-    {
-      "id": "h6",
-      "title": "🦔啦啦啦～寂寞的人听伤心的歌",
-      "game": "三角洲行动",
-      "heatScore": 95,
-      "cumulativeNotes": 5892,
-      "last24hGrowth": 14480,
-      "lifecycle": "高峰期",
-      "sourceType": "社区热点",
-      "typeTag": "讨论型",
-      "firstDetected": "4天前",
-      "internalNotes": [
-        {
-          "title": "🦔啦啦啦～寂寞的人听伤心的歌",
-          "url": "https://www.xiaohongshu.com/explore/68709877000000001c037736",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "difficulty": "高",
-      "acceptType": "图文",
-      "appearedAt": "10h前"
-    },
-    {
-      "id": "h7",
-      "title": "赵露思居然问我…这个问题",
-      "game": "英雄联盟",
-      "heatScore": 95,
-      "cumulativeNotes": 16641,
-      "last24hGrowth": 41354,
-      "lifecycle": "高峰期",
-      "sourceType": "社区热点",
-      "typeTag": "讨论型",
-      "firstDetected": "4天前",
-      "internalNotes": [
-        {
-          "title": "赵露思居然问我…这个问题",
-          "url": "https://www.xiaohongshu.com/explore/669cfbed000000002501710e",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "difficulty": "高",
-      "acceptType": "图文",
-      "appearedAt": "18h前"
-    },
-    {
-      "id": "h8",
-      "title": "这是属于我们的一秒钟",
-      "game": "英雄联盟",
-      "heatScore": 95,
-      "cumulativeNotes": 12238,
-      "last24hGrowth": 30346,
-      "lifecycle": "高峰期",
-      "sourceType": "社区热点",
-      "typeTag": "讨论型",
-      "firstDetected": "7天前",
-      "internalNotes": [
-        {
-          "title": "这是属于我们的一秒钟",
-          "url": "https://www.xiaohongshu.com/explore/69131dc400000000040227e7",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "difficulty": "高",
+      "status": "待处理",
+      "difficulty": "低",
       "acceptType": "短视频",
+      "internalNotes": [
+        {
+          "title": "瓦瓦原声又吸引到美女了",
+          "url": "https://www.xiaohongshu.com/explore/69d7a559000000002102c580",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "appearedAt": "1h前"
+    },
+    {
+      "id": "h2",
+      "title": "当朋友突然约你七点上线吃鸡时",
+      "game": "和平精英",
+      "heatScore": 96,
+      "cumulativeNotes": 10456,
+      "last24hGrowth": 15535,
+      "lifecycle": "上升期",
+      "sourceType": "社区热点",
+      "trendType": "讨论型",
+      "typeTag": "讨论型",
+      "firstDetected": "6天前",
+      "status": "待处理",
+      "difficulty": "中",
+      "acceptType": "图文",
+      "internalNotes": [
+        {
+          "title": "当朋友突然约你七点上线吃鸡时",
+          "url": "https://www.xiaohongshu.com/explore/68834926000000001d00f39c",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
       "appearedAt": "5h前"
     }
   ]
