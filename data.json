@@ -1,38 +1,16 @@
 {
-  "generated_at": "2026-05-20T10:33:43.883400",
+  "generated_at": "2026-05-20T10:35:48.225524",
   "trends": [
     {
       "id": "t1",
-      "title": "和张凌赫打游戏是种什么体验",
-      "game": "王者荣耀",
-      "powerScore": 93,
-      "growth": "+137%",
-      "noteCount": 5242,
-      "sourceType": "站内苗头",
-      "trendType": "讨论型",
-      "firstDetected": "3h前",
-      "status": "待处理",
-      "internalNotes": [
-        {
-          "title": "和张凌赫打游戏是种什么体验",
-          "url": "https://www.xiaohongshu.com/explore/69898108000000001a01e359",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "appearedAt": "2h前"
-    },
-    {
-      "id": "t2",
       "title": "瓦瓦原声又吸引到美女了",
       "game": "无畏契约",
-      "powerScore": 91,
-      "growth": "+135%",
+      "powerScore": 94,
+      "growth": "+297%",
       "noteCount": 6831,
       "sourceType": "站内苗头",
       "trendType": "讨论型",
-      "firstDetected": "1h前",
+      "firstDetected": "6h前",
       "status": "待处理",
       "internalNotes": [
         {
@@ -43,18 +21,40 @@
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "3h前"
+      "appearedAt": "5h前"
+    },
+    {
+      "id": "t2",
+      "title": "和张凌赫打游戏是种什么体验",
+      "game": "王者荣耀",
+      "powerScore": 85,
+      "growth": "+284%",
+      "noteCount": 5242,
+      "sourceType": "站内苗头",
+      "trendType": "讨论型",
+      "firstDetected": "4h前",
+      "status": "待处理",
+      "internalNotes": [
+        {
+          "title": "和张凌赫打游戏是种什么体验",
+          "url": "https://www.xiaohongshu.com/explore/69898108000000001a01e359",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "appearedAt": "6h前"
     },
     {
       "id": "t3",
       "title": "姐姐，那年东湖的雨天，我只想与你一起排位",
       "game": "王者荣耀",
-      "powerScore": 82,
-      "growth": "+224%",
+      "powerScore": 81,
+      "growth": "+138%",
       "noteCount": 9740,
       "sourceType": "站内苗头",
       "trendType": "讨论型",
-      "firstDetected": "2h前",
+      "firstDetected": "3h前",
       "status": "待处理",
       "internalNotes": [
         {
@@ -71,9 +71,35 @@
   "hots": [
     {
       "id": "h1",
+      "title": "姐姐，那年东湖的雨天，我只想与你一起排位",
+      "game": "王者荣耀",
+      "heatScore": 94,
+      "cumulativeNotes": 25995,
+      "last24hGrowth": 38843,
+      "lifecycle": "高峰期",
+      "sourceType": "社区热点",
+      "trendType": "讨论型",
+      "typeTag": "讨论型",
+      "firstDetected": "3天前",
+      "status": "待处理",
+      "difficulty": "低",
+      "acceptType": "直播",
+      "internalNotes": [
+        {
+          "title": "姐姐，那年东湖的雨天，我只想与",
+          "url": "https://www.xiaohongshu.com/explore/686f77ba000000002400a0a2",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "appearedAt": "2h前"
+    },
+    {
+      "id": "h2",
       "title": "瓦瓦原声又吸引到美女了",
       "game": "无畏契约",
-      "heatScore": 89,
+      "heatScore": 88,
       "cumulativeNotes": 18236,
       "last24hGrowth": 27204,
       "lifecycle": "上升期",
@@ -82,7 +108,7 @@
       "typeTag": "讨论型",
       "firstDetected": "3天前",
       "status": "待处理",
-      "difficulty": "低",
+      "difficulty": "高",
       "acceptType": "短视频",
       "internalNotes": [
         {
@@ -93,33 +119,33 @@
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "1h前"
+      "appearedAt": "3h前"
     },
     {
-      "id": "h2",
-      "title": "当朋友突然约你七点上线吃鸡时",
-      "game": "和平精英",
-      "heatScore": 96,
-      "cumulativeNotes": 10456,
-      "last24hGrowth": 15535,
-      "lifecycle": "上升期",
+      "id": "h3",
+      "title": "和张凌赫打游戏是种什么体验",
+      "game": "王者荣耀",
+      "heatScore": 90,
+      "cumulativeNotes": 14000,
+      "last24hGrowth": 20850,
+      "lifecycle": "高峰期",
       "sourceType": "社区热点",
       "trendType": "讨论型",
       "typeTag": "讨论型",
-      "firstDetected": "6天前",
+      "firstDetected": "7天前",
       "status": "待处理",
-      "difficulty": "中",
-      "acceptType": "图文",
+      "difficulty": "低",
+      "acceptType": "直播",
       "internalNotes": [
         {
-          "title": "当朋友突然约你七点上线吃鸡时",
-          "url": "https://www.xiaohongshu.com/explore/68834926000000001d00f39c",
+          "title": "和张凌赫打游戏是种什么体验",
+          "url": "https://www.xiaohongshu.com/explore/69898108000000001a01e359",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "5h前"
+      "appearedAt": "6h前"
     }
   ]
 }
