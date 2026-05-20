@@ -1,287 +1,70 @@
 {
-  "generated_at": "2026-05-20T12:14:29.963142",
-  "trends": [
-    {
-      "title": "520快乐呀💖💖",
-      "game": "王者荣耀",
-      "sourceType": "站内苗头",
-      "trendType": "创作型",
-      "firstDetected": "5h前",
-      "appearedAt": "5h前",
-      "internalNotes": [
-        {
-          "title": "520快乐呀💖💖",
-          "url": "https://www.xiaohongshu.com/explore/6a0d326c000000003502774d",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "powerScore": 63,
-      "growth": "+370%",
-      "noteCount": 42,
-      "status": "待处理",
-      "id": "t1"
-    },
-    {
-      "title": "哪来的小猫咪！",
-      "game": "王者荣耀",
-      "sourceType": "站内苗头",
-      "trendType": "创作型",
-      "firstDetected": "10h前",
-      "appearedAt": "10h前",
-      "internalNotes": [
-        {
-          "title": "哪来的小猫咪！",
-          "url": "https://www.xiaohongshu.com/explore/6a0cdc4c000000000702bc94",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "powerScore": 76,
-      "growth": "+314%",
-      "noteCount": 74,
-      "status": "待处理",
-      "id": "t2"
-    },
-    {
-      "title": "你的意思是让我玩赵怀真吗",
-      "game": "王者荣耀",
-      "sourceType": "站内苗头",
-      "trendType": "讨论型",
-      "firstDetected": "10h前",
-      "appearedAt": "10h前",
-      "internalNotes": [
-        {
-          "title": "你的意思是让我玩赵怀真吗",
-          "url": "https://www.xiaohongshu.com/explore/6a0d1e2c0000000038021b3d",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "powerScore": 61,
-      "growth": "+122%",
-      "noteCount": 54,
-      "status": "待处理",
-      "id": "t3"
-    },
-    {
-      "title": "爽得我狸毛一直在抖",
-      "game": "王者荣耀",
-      "sourceType": "站内苗头",
-      "trendType": "创作型",
-      "firstDetected": "3h前",
-      "appearedAt": "3h前",
-      "internalNotes": [
-        {
-          "title": "爽得我狸毛一直在抖",
-          "url": "https://www.xiaohongshu.com/explore/6a0d1ad20000000006033f87",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "powerScore": 75,
-      "growth": "+120%",
-      "noteCount": 78,
-      "status": "待处理",
-      "id": "t4"
-    },
-    {
-      "title": "三丽鸥抽奖玄学",
-      "game": "王者荣耀",
-      "sourceType": "站内苗头",
-      "trendType": "创作型",
-      "firstDetected": "4h前",
-      "appearedAt": "4h前",
-      "internalNotes": [
-        {
-          "title": "三丽鸥抽奖玄学",
-          "url": "https://www.xiaohongshu.com/explore/6a0d19b7000000003503ab26",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "powerScore": 76,
-      "growth": "+329%",
-      "noteCount": 365,
-      "status": "待处理",
-      "id": "t5"
-    },
-    {
-      "title": "开屏暴击！是羁绊么主播！",
-      "game": "王者荣耀",
-      "sourceType": "站内苗头",
-      "trendType": "创作型",
-      "firstDetected": "6h前",
-      "appearedAt": "6h前",
-      "internalNotes": [
-        {
-          "title": "开屏暴击！是羁绊么主播！",
-          "url": "https://www.xiaohongshu.com/explore/6a0d15d2000000003502f582",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "powerScore": 70,
-      "growth": "+383%",
-      "noteCount": 66,
-      "status": "待处理",
-      "id": "t6"
-    },
-    {
-      "title": "超体—皇冠局kd3.6女生立志当大肘子的一天",
-      "game": "和平精英",
-      "sourceType": "站内苗头",
-      "trendType": "创作型",
-      "firstDetected": "5h前",
-      "appearedAt": "5h前",
-      "internalNotes": [
-        {
-          "title": "超体—皇冠局kd3.6女生立志",
-          "url": "https://www.xiaohongshu.com/explore/6a0c907b0000000008027694",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "powerScore": 63,
-      "growth": "+320%",
-      "noteCount": 49,
-      "status": "待处理",
-      "id": "t7"
-    },
-    {
-      "title": "黑白配⚫️⚪️🐧",
-      "game": "和平精英",
-      "sourceType": "站内苗头",
-      "trendType": "创作型",
-      "firstDetected": "9h前",
-      "appearedAt": "9h前",
-      "internalNotes": [
-        {
-          "title": "黑白配⚫️⚪️🐧",
-          "url": "https://www.xiaohongshu.com/explore/6a0c5fdf00000000360022ec",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "powerScore": 60,
-      "growth": "+258%",
-      "noteCount": 45,
-      "status": "待处理",
-      "id": "t8"
-    },
-    {
-      "title": "进图啥也不干，巴结姐的来",
-      "game": "三角洲行动",
-      "sourceType": "站内苗头",
-      "trendType": "创作型",
-      "firstDetected": "12h前",
-      "appearedAt": "12h前",
-      "internalNotes": [
-        {
-          "title": "进图啥也不干，巴结姐的来",
-          "url": "https://www.xiaohongshu.com/explore/6a0c5409000000003700c0c8",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "powerScore": 56,
-      "growth": "+367%",
-      "noteCount": 36,
-      "status": "待处理",
-      "id": "t9"
-    },
-    {
-      "title": "发糖啦~",
-      "game": "三角洲行动",
-      "sourceType": "站内苗头",
-      "trendType": "创作型",
-      "firstDetected": "9h前",
-      "appearedAt": "9h前",
-      "internalNotes": [
-        {
-          "title": "发糖啦~",
-          "url": "https://www.xiaohongshu.com/explore/6a0d11c1000000000702a19a",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "powerScore": 55,
-      "growth": "+309%",
-      "noteCount": 20,
-      "status": "待处理",
-      "id": "t10"
-    }
-  ],
+  "generated_at": "2026-05-20T12:27:15.256561",
+  "trends": [],
   "hots": [
     {
-      "title": "有感觉吗，无畏很会哄人了",
-      "game": "王者荣耀",
       "sourceType": "社区热点",
-      "trendType": "讨论型",
-      "firstDetected": "12h前",
-      "appearedAt": "12h前",
+      "title": "Faker选择和Karina玩游戏，因为相赫很无趣",
+      "game": "王者荣耀",
+      "heatScore": 69,
+      "cumulativeNotes": 500,
+      "last24hGrowth": 420,
+      "lifecycle": "上升期",
+      "typeTag": "讨论型",
+      "firstDetected": "2天前",
+      "appearedAt": "18h前",
+      "difficulty": "低",
+      "acceptType": "图文",
       "internalNotes": [
         {
-          "title": "有感觉吗，无畏很会哄人了",
-          "url": "https://www.xiaohongshu.com/explore/6a0c8035000000000702823a",
+          "title": "Faker选择和Karina玩",
+          "url": "https://www.xiaohongshu.com/explore/6a085d4b000000000803d973",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "heatScore": 57,
-      "cumulativeNotes": 500,
-      "last24hGrowth": 132,
-      "lifecycle": "上升期",
-      "typeTag": "讨论型",
-      "difficulty": "低",
-      "acceptType": "通告",
       "status": "待处理",
       "id": "h1"
     },
     {
-      "title": "是貂蝉～",
-      "game": "王者荣耀",
       "sourceType": "社区热点",
-      "trendType": "创作型",
-      "firstDetected": "8h前",
-      "appearedAt": "8h前",
+      "title": "猎奇+可爱！【大眼首款T2皮肤】预览解析！",
+      "game": "王者荣耀",
+      "heatScore": 69,
+      "cumulativeNotes": 500,
+      "last24hGrowth": 317,
+      "lifecycle": "上升期",
+      "typeTag": "讨论型",
+      "firstDetected": "1天前",
+      "appearedAt": "6h前",
+      "difficulty": "低",
+      "acceptType": "图文",
       "internalNotes": [
         {
-          "title": "是貂蝉～",
-          "url": "https://www.xiaohongshu.com/explore/6a0c7d8f00000000060347a6",
+          "title": "猎奇+可爱！【大眼首款T2皮肤",
+          "url": "https://www.xiaohongshu.com/explore/6a03a9d300000000350200b3",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "heatScore": 68,
-      "cumulativeNotes": 500,
-      "last24hGrowth": 241,
-      "lifecycle": "高峰期",
-      "typeTag": "创作型",
-      "difficulty": "低",
-      "acceptType": "图文",
       "status": "待处理",
       "id": "h2"
     },
     {
+      "sourceType": "社区热点",
       "title": "无畏：你钎城还怕被压力？！",
       "game": "王者荣耀",
-      "sourceType": "社区热点",
-      "trendType": "讨论型",
-      "firstDetected": "11h前",
-      "appearedAt": "11h前",
+      "heatScore": 64,
+      "cumulativeNotes": 500,
+      "last24hGrowth": 312,
+      "lifecycle": "上升期",
+      "typeTag": "讨论型",
+      "firstDetected": "3天前",
+      "appearedAt": "22h前",
+      "difficulty": "低",
+      "acceptType": "图文",
       "internalNotes": [
         {
           "title": "无畏：你钎城还怕被压力？！",
@@ -291,179 +74,122 @@
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "heatScore": 74,
-      "cumulativeNotes": 500,
-      "last24hGrowth": 465,
-      "lifecycle": "上升期",
-      "typeTag": "讨论型",
-      "difficulty": "中",
-      "acceptType": "图文",
       "status": "待处理",
       "id": "h3"
     },
     {
-      "title": "一听就知道是no飞来啦！",
-      "game": "王者荣耀",
       "sourceType": "社区热点",
-      "trendType": "创作型",
-      "firstDetected": "11h前",
-      "appearedAt": "11h前",
+      "title": "怪不得都说农撸不分家呢",
+      "game": "王者荣耀",
+      "heatScore": 61,
+      "cumulativeNotes": 500,
+      "last24hGrowth": 252,
+      "lifecycle": "上升期",
+      "typeTag": "讨论型",
+      "firstDetected": "4天前",
+      "appearedAt": "6h前",
+      "difficulty": "低",
+      "acceptType": "图文",
       "internalNotes": [
         {
-          "title": "一听就知道是no飞来啦！",
-          "url": "https://www.xiaohongshu.com/explore/6a0c75f7000000003501da75",
+          "title": "怪不得都说农撸不分家呢",
+          "url": "https://www.xiaohongshu.com/explore/6a09dec50000000007022447",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "heatScore": 57,
-      "cumulativeNotes": 500,
-      "last24hGrowth": 150,
-      "lifecycle": "高峰期",
-      "typeTag": "创作型",
-      "difficulty": "中",
-      "acceptType": "通告",
       "status": "待处理",
       "id": "h4"
     },
     {
-      "title": "无畏：钎城来辅助我一下🤓",
-      "game": "王者荣耀",
       "sourceType": "社区热点",
-      "trendType": "创作型",
-      "firstDetected": "12h前",
-      "appearedAt": "12h前",
+      "title": "朋友说一秒都不用剪",
+      "game": "王者荣耀",
+      "heatScore": 60,
+      "cumulativeNotes": 500,
+      "last24hGrowth": 238,
+      "lifecycle": "高峰期",
+      "typeTag": "讨论型",
+      "firstDetected": "5天前",
+      "appearedAt": "15h前",
+      "difficulty": "低",
+      "acceptType": "短视频",
       "internalNotes": [
         {
-          "title": "无畏：钎城来辅助我一下🤓",
-          "url": "https://www.xiaohongshu.com/explore/6a0c73e00000000035032da8",
+          "title": "朋友说一秒都不用剪",
+          "url": "https://www.xiaohongshu.com/explore/6a0bc4da0000000036003b67",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "heatScore": 61,
-      "cumulativeNotes": 500,
-      "last24hGrowth": 194,
-      "lifecycle": "上升期",
-      "typeTag": "创作型",
-      "difficulty": "低",
-      "acceptType": "图文",
       "status": "待处理",
       "id": "h5"
     },
     {
-      "title": "520终于官宣，结果被玩家们骂上热搜？",
-      "game": "王者荣耀",
       "sourceType": "社区热点",
-      "trendType": "讨论型",
-      "firstDetected": "3h前",
-      "appearedAt": "3h前",
+      "title": "浙江队贴脸开大xx的BP，xx：别带教练节奏啊",
+      "game": "王者荣耀",
+      "heatScore": 58,
+      "cumulativeNotes": 500,
+      "last24hGrowth": 192,
+      "lifecycle": "上升期",
+      "typeTag": "讨论型",
+      "firstDetected": "4天前",
+      "appearedAt": "14h前",
+      "difficulty": "中",
+      "acceptType": "短视频",
       "internalNotes": [
         {
-          "title": "520终于官宣，结果被玩家们骂",
-          "url": "https://www.xiaohongshu.com/explore/6a0c6f9e0000000006034494",
+          "title": "浙江队贴脸开大xx的BP，xx",
+          "url": "https://www.xiaohongshu.com/explore/6a0c548b0000000035033642",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "heatScore": 63,
-      "cumulativeNotes": 500,
-      "last24hGrowth": 102,
-      "lifecycle": "上升期",
-      "typeTag": "讨论型",
-      "difficulty": "中",
-      "acceptType": "短视频",
       "status": "待处理",
       "id": "h6"
     },
     {
-      "title": "钎城：no飞已经在群里胡闹了，no飞请速归",
-      "game": "王者荣耀",
       "sourceType": "社区热点",
-      "trendType": "讨论型",
-      "firstDetected": "10h前",
-      "appearedAt": "10h前",
+      "title": "别扯我头发！",
+      "game": "王者荣耀",
+      "heatScore": 58,
+      "cumulativeNotes": 500,
+      "last24hGrowth": 181,
+      "lifecycle": "高峰期",
+      "typeTag": "讨论型",
+      "firstDetected": "2天前",
+      "appearedAt": "23h前",
+      "difficulty": "低",
+      "acceptType": "短视频",
       "internalNotes": [
         {
-          "title": "钎城：no飞已经在群里胡闹了，",
-          "url": "https://www.xiaohongshu.com/explore/6a0c68ec0000000036001855",
+          "title": "别扯我头发！",
+          "url": "https://www.xiaohongshu.com/explore/6a0c509d000000000803fa15",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "heatScore": 61,
-      "cumulativeNotes": 500,
-      "last24hGrowth": 234,
-      "lifecycle": "高峰期",
-      "typeTag": "讨论型",
-      "difficulty": "低",
-      "acceptType": "图文",
       "status": "待处理",
       "id": "h7"
     },
     {
-      "title": "曾经的p城含金量有多高！",
-      "game": "和平精英",
       "sourceType": "社区热点",
-      "trendType": "创作型",
-      "firstDetected": "5h前",
-      "appearedAt": "5h前",
-      "internalNotes": [
-        {
-          "title": "曾经的p城含金量有多高！",
-          "url": "https://www.xiaohongshu.com/explore/6a0bf6c4000000000702c762",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "heatScore": 65,
-      "cumulativeNotes": 500,
-      "last24hGrowth": 106,
-      "lifecycle": "上升期",
-      "typeTag": "创作型",
-      "difficulty": "低",
-      "acceptType": "短视频",
-      "status": "待处理",
-      "id": "h8"
-    },
-    {
-      "title": "研究半小时终于把正确站位找到了！",
-      "game": "和平精英",
-      "sourceType": "社区热点",
-      "trendType": "讨论型",
-      "firstDetected": "5h前",
-      "appearedAt": "5h前",
-      "internalNotes": [
-        {
-          "title": "研究半小时终于把正确站位找到了",
-          "url": "https://www.xiaohongshu.com/explore/6a0b4d05000000003503878a",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "heatScore": 62,
-      "cumulativeNotes": 500,
-      "last24hGrowth": 114,
-      "lifecycle": "上升期",
-      "typeTag": "讨论型",
-      "difficulty": "中",
-      "acceptType": "短视频",
-      "status": "待处理",
-      "id": "h9"
-    },
-    {
       "title": "隐藏款指挥官密钥高效速刷方法",
-      "game": "和平精英",
-      "sourceType": "社区热点",
-      "trendType": "创作型",
-      "firstDetected": "8h前",
-      "appearedAt": "8h前",
+      "game": "王者荣耀",
+      "heatScore": 58,
+      "cumulativeNotes": 500,
+      "last24hGrowth": 193,
+      "lifecycle": "高峰期",
+      "typeTag": "讨论型",
+      "firstDetected": "1天前",
+      "appearedAt": "16h前",
+      "difficulty": "中",
+      "acceptType": "图文",
       "internalNotes": [
         {
           "title": "隐藏款指挥官密钥高效速刷方法",
@@ -473,13 +199,56 @@
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "heatScore": 64,
+      "status": "待处理",
+      "id": "h8"
+    },
+    {
+      "sourceType": "社区热点",
+      "title": "我得了一种看到无畏契约梗图就笑的病",
+      "game": "无畏契约",
+      "heatScore": 58,
       "cumulativeNotes": 500,
-      "last24hGrowth": 289,
+      "last24hGrowth": 183,
       "lifecycle": "上升期",
-      "typeTag": "创作型",
+      "typeTag": "讨论型",
+      "firstDetected": "5天前",
+      "appearedAt": "8h前",
       "difficulty": "低",
       "acceptType": "图文",
+      "internalNotes": [
+        {
+          "title": "我得了一种看到无畏契约梗图就笑",
+          "url": "https://www.xiaohongshu.com/explore/6a0c455500000000060307b6",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "status": "待处理",
+      "id": "h9"
+    },
+    {
+      "sourceType": "社区热点",
+      "title": "你 要 啥 烟",
+      "game": "王者荣耀",
+      "heatScore": 58,
+      "cumulativeNotes": 500,
+      "last24hGrowth": 186,
+      "lifecycle": "上升期",
+      "typeTag": "讨论型",
+      "firstDetected": "3天前",
+      "appearedAt": "6h前",
+      "difficulty": "低",
+      "acceptType": "短视频",
+      "internalNotes": [
+        {
+          "title": "你 要 啥 烟",
+          "url": "https://www.xiaohongshu.com/explore/6a0bb0ef0000000007022398",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
       "status": "待处理",
       "id": "h10"
     }
