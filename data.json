@@ -1,239 +1,226 @@
 {
-  "generated_at": "2026-05-20T11:41:11.179358",
+  "generated_at": "2026-05-20T11:45:30.713788",
   "trends": [
     {
-      "id": "t1",
-      "title": "王者520三丽鸥祈愿开了！你们都多少出的",
+      "title": "能不能来个小美女让我当上分工具",
       "game": "王者荣耀",
-      "powerScore": 55,
-      "growth": "+136%",
-      "noteCount": 36,
       "sourceType": "站内苗头",
-      "trendType": "讨论型",
-      "firstDetected": "4h前",
-      "status": "待处理",
+      "trendType": "创作型",
+      "firstDetected": "1h前",
+      "appearedAt": "1h前",
       "internalNotes": [
         {
-          "title": "王者520三丽鸥祈愿开了！你们",
-          "url": "https://www.xiaohongshu.com/explore/6a0d0e0e0000000007027bae",
+          "title": "能不能来个小美女让我当上分工具",
+          "url": "https://www.xiaohongshu.com/explore/6a0d2dfc0000000006032361",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "2h前"
-    },
-    {
-      "id": "t2",
-      "title": "风电的girls night",
-      "game": "英雄联盟",
-      "powerScore": 55,
-      "growth": "+239%",
-      "noteCount": 37,
-      "sourceType": "站内苗头",
-      "trendType": "讨论型",
-      "firstDetected": "4h前",
+      "powerScore": 40,
+      "growth": "+270%",
+      "noteCount": 20,
       "status": "待处理",
-      "internalNotes": [
-        {
-          "title": "风电的girls night",
-          "url": "https://www.xiaohongshu.com/explore/6a0c7ef9000000000803e8df",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "appearedAt": "6h前"
+      "id": "t1"
     },
     {
-      "id": "t3",
-      "title": "泰亨在英雄联盟里喜欢打上单中单和打野？？",
-      "game": "英雄联盟",
-      "powerScore": 55,
-      "growth": "+275%",
-      "noteCount": 39,
-      "sourceType": "站内苗头",
-      "trendType": "讨论型",
-      "firstDetected": "4h前",
-      "status": "待处理",
-      "internalNotes": [
-        {
-          "title": "泰亨在英雄联盟里喜欢打上单中单",
-          "url": "https://www.xiaohongshu.com/explore/6a0cfda0000000003700f321",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "appearedAt": "2h前"
-    },
-    {
-      "id": "t4",
-      "title": "我的天太好笑了电竞连续剧",
+      "title": "乔孝女来支持了",
       "game": "王者荣耀",
-      "powerScore": 55,
-      "growth": "+267%",
-      "noteCount": 37,
       "sourceType": "站内苗头",
       "trendType": "讨论型",
-      "firstDetected": "5h前",
-      "status": "待处理",
+      "firstDetected": "1h前",
+      "appearedAt": "1h前",
       "internalNotes": [
         {
-          "title": "我的天太好笑了电竞连续剧",
-          "url": "https://www.xiaohongshu.com/explore/6a0c70b70000000038020957",
+          "title": "乔孝女来支持了",
+          "url": "https://www.xiaohongshu.com/explore/6a0d2de80000000035022857",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "2h前"
+      "powerScore": 40,
+      "growth": "+153%",
+      "noteCount": 20,
+      "status": "待处理",
+      "id": "t2"
     },
     {
-      "id": "t5",
-      "title": "#英雄联盟 #lol #精彩片段",
-      "game": "英雄联盟",
-      "powerScore": 55,
-      "growth": "+162%",
-      "noteCount": 36,
+      "title": "面包超人真的是可爱惨了‼️",
+      "game": "和平精英",
       "sourceType": "站内苗头",
       "trendType": "讨论型",
-      "firstDetected": "6h前",
-      "status": "待处理",
+      "firstDetected": "1h前",
+      "appearedAt": "1h前",
       "internalNotes": [
         {
-          "title": "#英雄联盟 #lol #精彩片",
-          "url": "https://www.xiaohongshu.com/explore/6a0c2bf10000000007011236",
+          "title": "面包超人真的是可爱惨了‼️",
+          "url": "https://www.xiaohongshu.com/explore/6a0d2df700000000360315b0",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "2h前"
+      "powerScore": 40,
+      "growth": "+319%",
+      "noteCount": 20,
+      "status": "待处理",
+      "id": "t3"
     },
     {
-      "id": "t6",
-      "title": "夏鸣星｜某电竞选手在女朋友前面好装哦",
-      "game": "王者荣耀",
-      "powerScore": 55,
-      "growth": "+276%",
-      "noteCount": 36,
+      "title": "最近忙死我了水一下（全是半成品",
+      "game": "和平精英",
       "sourceType": "站内苗头",
       "trendType": "讨论型",
-      "firstDetected": "3h前",
-      "status": "待处理",
+      "firstDetected": "1h前",
+      "appearedAt": "1h前",
       "internalNotes": [
         {
-          "title": "夏鸣星｜某电竞选手在女朋友前面",
-          "url": "https://www.xiaohongshu.com/explore/6a0c9a2e0000000006036323",
+          "title": "最近忙死我了水一下（全是半成品",
+          "url": "https://www.xiaohongshu.com/explore/6a0d2de90000000038034e95",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "4h前"
+      "powerScore": 40,
+      "growth": "+313%",
+      "noteCount": 20,
+      "status": "待处理",
+      "id": "t4"
     },
     {
-      "id": "t7",
-      "title": "派克格温！新版强势稳定上分阵容！爽吃🐔",
-      "game": "王者荣耀",
-      "powerScore": 55,
-      "growth": "+226%",
-      "noteCount": 49,
+      "title": "。",
+      "game": "和平精英",
       "sourceType": "站内苗头",
-      "trendType": "讨论型",
-      "firstDetected": "2h前",
-      "status": "待处理",
+      "trendType": "创作型",
+      "firstDetected": "1h前",
+      "appearedAt": "1h前",
       "internalNotes": [
         {
-          "title": "派克格温！新版强势稳定上分阵容",
-          "url": "https://www.xiaohongshu.com/explore/6a0c2b6200000000060337c3",
+          "title": "。",
+          "url": "https://www.xiaohongshu.com/explore/6a0d2dd10000000008030f94",
           "platform": "小红书"
         }
       ],
       "externalNotes": [],
       "aiSuggestion": "",
-      "appearedAt": "1h前"
+      "powerScore": 40,
+      "growth": "+111%",
+      "noteCount": 20,
+      "status": "待处理",
+      "id": "t5"
+    },
+    {
+      "title": "520凭分手截图免费护航",
+      "game": "三角洲行动",
+      "sourceType": "站内苗头",
+      "trendType": "创作型",
+      "firstDetected": "1h前",
+      "appearedAt": "1h前",
+      "internalNotes": [
+        {
+          "title": "520凭分手截图免费护航",
+          "url": "https://www.xiaohongshu.com/explore/6a0d2dcd0000000008030f7c",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "powerScore": 40,
+      "growth": "+221%",
+      "noteCount": 20,
+      "status": "待处理",
+      "id": "t6"
+    },
+    {
+      "title": "当聊三角洲被亲戚听到时",
+      "game": "三角洲行动",
+      "sourceType": "站内苗头",
+      "trendType": "创作型",
+      "firstDetected": "1h前",
+      "appearedAt": "1h前",
+      "internalNotes": [
+        {
+          "title": "当聊三角洲被亲戚听到时",
+          "url": "https://www.xiaohongshu.com/explore/6a0d2dc80000000035033e72",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "powerScore": 40,
+      "growth": "+293%",
+      "noteCount": 20,
+      "status": "待处理",
+      "id": "t7"
+    },
+    {
+      "title": "金铲铲七百买的号大家帮忙看一下值不值",
+      "game": "金铲铲之战",
+      "sourceType": "站内苗头",
+      "trendType": "创作型",
+      "firstDetected": "1h前",
+      "appearedAt": "1h前",
+      "internalNotes": [
+        {
+          "title": "金铲铲七百买的号大家帮忙看一下",
+          "url": "https://www.xiaohongshu.com/explore/6a0d2dec00000000070257e2",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "powerScore": 40,
+      "growth": "+248%",
+      "noteCount": 20,
+      "status": "待处理",
+      "id": "t8"
+    },
+    {
+      "title": "如果这个能选择石头就好了",
+      "game": "金铲铲之战",
+      "sourceType": "站内苗头",
+      "trendType": "讨论型",
+      "firstDetected": "1h前",
+      "appearedAt": "1h前",
+      "internalNotes": [
+        {
+          "title": "如果这个能选择石头就好了",
+          "url": "https://www.xiaohongshu.com/explore/6a0d2dc5000000003703680b",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "powerScore": 40,
+      "growth": "+301%",
+      "noteCount": 20,
+      "status": "待处理",
+      "id": "t9"
+    },
+    {
+      "title": "小鸟情侣520快乐💕",
+      "game": "金铲铲之战",
+      "sourceType": "站内苗头",
+      "trendType": "创作型",
+      "firstDetected": "1h前",
+      "appearedAt": "1h前",
+      "internalNotes": [
+        {
+          "title": "小鸟情侣520快乐💕",
+          "url": "https://www.xiaohongshu.com/explore/6a0d2da10000000008030e9d",
+          "platform": "小红书"
+        }
+      ],
+      "externalNotes": [],
+      "aiSuggestion": "",
+      "powerScore": 40,
+      "growth": "+314%",
+      "noteCount": 20,
+      "status": "待处理",
+      "id": "t10"
     }
   ],
-  "hots": [
-    {
-      "id": "h1",
-      "title": "姐姐，那年东湖的雨天，我只想与你一起排位",
-      "game": "王者荣耀",
-      "heatScore": 96,
-      "cumulativeNotes": 25995,
-      "last24hGrowth": 38843,
-      "lifecycle": "上升期",
-      "sourceType": "社区热点",
-      "trendType": "讨论型",
-      "typeTag": "讨论型",
-      "firstDetected": "6天前",
-      "status": "待处理",
-      "difficulty": "高",
-      "acceptType": "图文",
-      "internalNotes": [
-        {
-          "title": "姐姐，那年东湖的雨天，我只想与",
-          "url": "https://www.xiaohongshu.com/explore/686f77ba000000002400a0a2",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "appearedAt": "1h前"
-    },
-    {
-      "id": "h2",
-      "title": "瓦瓦原声又吸引到美女了",
-      "game": "无畏契约",
-      "heatScore": 93,
-      "cumulativeNotes": 18236,
-      "last24hGrowth": 27204,
-      "lifecycle": "上升期",
-      "sourceType": "社区热点",
-      "trendType": "讨论型",
-      "typeTag": "讨论型",
-      "firstDetected": "6天前",
-      "status": "待处理",
-      "difficulty": "高",
-      "acceptType": "直播",
-      "internalNotes": [
-        {
-          "title": "瓦瓦原声又吸引到美女了",
-          "url": "https://www.xiaohongshu.com/explore/69d7a559000000002102c580",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "appearedAt": "5h前"
-    },
-    {
-      "id": "h3",
-      "title": "和张凌赫打游戏是种什么体验",
-      "game": "王者荣耀",
-      "heatScore": 93,
-      "cumulativeNotes": 14000,
-      "last24hGrowth": 20850,
-      "lifecycle": "上升期",
-      "sourceType": "社区热点",
-      "trendType": "讨论型",
-      "typeTag": "讨论型",
-      "firstDetected": "4天前",
-      "status": "待处理",
-      "difficulty": "低",
-      "acceptType": "短视频",
-      "internalNotes": [
-        {
-          "title": "和张凌赫打游戏是种什么体验",
-          "url": "https://www.xiaohongshu.com/explore/69898108000000001a01e359",
-          "platform": "小红书"
-        }
-      ],
-      "externalNotes": [],
-      "aiSuggestion": "",
-      "appearedAt": "3h前"
-    }
-  ]
+  "hots": []
 }
